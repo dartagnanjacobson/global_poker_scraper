@@ -1,0 +1,2657 @@
+PokerStars Hand #84553dfe-d4ac-4322-bebd-8225b6864f01:  Hold'em No Limit ($0.1/$0.20 USD) - 2021/11/21 00:01:00 ET
+Table 'Denver' 6-max Seat #5 is the button
+Seat 1: Player#1904 ($55.14 in chips)
+Seat 2: Player#2835 ($19.60 in chips)
+Seat 3: Player#3079 ($19.80 in chips)
+Seat 4: warioman ($19.90 in chips)
+Seat 5: Player#0786 ($36.98 in chips)
+Seat 6: Player#8333 ($20.00 in chips)
+Player#8333: posts small blind $0.10
+Player#3079: posts big blind $0.20
+*** HOLE CARDS ***
+Dealt to warioman [4s Ah]
+Player#8333 Waiting
+Player#0786: raises $0.20 to $0.6
+Player#1904: folds
+Player#2835: folds
+Player#3079: calls $0.50
+warioman: folds
+*** FLOP *** [8c Th 7d]
+Player#3079: bets $0.70
+Player#0786: folds
+Player#3079: doesn't show hand
+Uncalled bet ($0.70) returned to Player#3079
+Player#3079 collected $1.33 from pot
+*** SUMMARY ***
+Total Pot $1.40 | Rake $0.07
+Board [8c Th 7d]
+Seat 1: Player#1904 folded before the flop
+Seat 2: Player#2835 folded before the flop
+Seat 3: Player#3079 shows [] and won ($1.33) with 
+Seat 4: warioman folded before the flop
+Seat 5: Player#0786 (button) folded on the flop
+Seat 6: Player#8333 (small blind) mucked
+
+PokerStars Hand #0cf82ca1-517c-4d23-93c7-ea88575ea8d6:  Hold'em No Limit ($0.1/$0.20 USD) - 2021/11/21 00:01:00 ET
+Table 'Lacey' 6-max Seat #6 is the button
+Seat 1: warioman ($20.07 in chips)
+Seat 2: Player#9357 ($21.10 in chips)
+Seat 3: Player#7132 ($55.48 in chips)
+Seat 4: Player#0643 ($29.22 in chips)
+Seat 5: Player#2631 ($24.51 in chips)
+Seat 6: Player#6372 ($58.47 in chips)
+warioman: posts small blind $0.10
+Player#9357: posts big blind $0.20
+*** HOLE CARDS ***
+Dealt to warioman [3s 2c]
+Player#7132: folds
+Player#0643: folds
+Player#2631: folds
+Player#6372: folds
+warioman: folds
+Player#9357 collected $0.20 from pot
+*** SUMMARY ***
+Total Pot $0.20 | Rake $0.00
+Seat 1: warioman (small blind) folded before the flop
+Seat 2: Player#9357 shows [] and won ($0.20) with 
+Seat 3: Player#7132 folded before the flop
+Seat 4: Player#0643 folded before the flop
+Seat 5: Player#2631 folded before the flop
+Seat 6: Player#6372 (button) folded before the flop
+
+PokerStars Hand #d2d8771b-88c2-4a4b-ae13-fb06358650d0:  Hold'em No Limit ($0.1/$0.20 USD) - 2021/11/21 00:01:00 ET
+Table 'Denver' 6-max Seat #1 is the button
+Seat 1: Player#5490 ($54.84 in chips)
+Seat 2: Player#2671 ($19.70 in chips)
+Seat 3: Player#7272 ($20.00 in chips)
+Seat 4: warioman ($19.90 in chips)
+Seat 5: Player#7589 ($36.98 in chips)
+Player#2671: posts small blind $0.10
+Player#7272: posts big blind $0.20
+*** HOLE CARDS ***
+Dealt to warioman [6s Kc]
+warioman: folds
+Player#7589: folds
+Player#5490: raises $0.20 to $0.7
+Player#2671: folds
+Player#7272: folds
+Player#5490: doesn't show hand
+Uncalled bet ($0.70) returned to Player#5490
+Player#5490 collected $0.30 from pot
+*** SUMMARY ***
+Total Pot $0.30 | Rake $0.00
+Seat 1: Player#5490 shows [] and won ($0.30) with 
+Seat 2: Player#2671 (small blind) folded before the flop
+Seat 3: Player#7272 (big blind) folded before the flop
+Seat 4: warioman folded before the flop
+Seat 5: Player#7589 folded before the flop
+
+PokerStars Hand #338449af-ed46-485e-b287-7e82cc5071c7:  Hold'em No Limit ($0.1/$0.20 USD) - 2021/11/21 00:00:00 ET
+Table 'Lacey' 6-max Seat #5 is the button
+Seat 1: warioman ($19.79 in chips)
+Seat 2: Player#2180 ($21.30 in chips)
+Seat 3: Player#4251 ($55.48 in chips)
+Seat 4: Player#9513 ($29.22 in chips)
+Seat 5: Player#8455 ($24.51 in chips)
+Seat 6: Player#6892 ($58.57 in chips)
+Player#6892: posts small blind $0.10
+warioman: posts big blind $0.20
+*** HOLE CARDS ***
+Dealt to warioman [Qs 2h]
+Player#2180: calls $0.20
+Player#4251: folds
+Player#9513: folds
+Player#8455: folds
+Player#6892: folds
+warioman: checks
+*** FLOP *** [Kh Js 6h]
+warioman: checks
+Player#2180: checks
+*** TURN *** [Kh Js 6h] [9s]
+warioman: checks
+Player#2180: checks
+*** RIVER *** [Kh Js 6h] [9s] [2s]
+warioman: checks
+Player#2180: checks
+*** SHOW DOWN *** 
+warioman collected $0.47 from pot
+*** SUMMARY ***
+Total Pot $0.50 | Rake $0.03
+Board [Kh Js 6h 9s 2s]
+Seat 1: warioman (big blind)
+Seat 2: Player#2180 mucked
+Seat 3: Player#4251 folded before the flop
+Seat 4: Player#9513 folded before the flop
+Seat 5: Player#8455 (button) folded before the flop
+Seat 6: Player#6892 (small blind) folded before the flop
+
+PokerStars Hand #164d4a64-ae61-492f-9306-d0b44e8d0170:  Hold'em No Limit ($0.1/$0.20 USD) - 2021/11/21 00:00:00 ET
+Table 'Denver' 6-max Seat #2 is the button
+Seat 1: Player#0643 ($55.04 in chips)
+Seat 2: Player#8175 ($19.50 in chips)
+Seat 3: Player#9937 ($20.00 in chips)
+Seat 4: warioman ($19.90 in chips)
+Seat 5: Player#1138 ($36.98 in chips)
+Player#9937: posts small blind $0.10
+Player#0643: posts big blind $0.20
+*** HOLE CARDS ***
+Dealt to warioman [8h 7d]
+Player#9937 Waiting
+warioman: folds
+Player#1138: folds
+Player#0643: calls $0.10
+Player#8175: raises $0.20 to $0.6
+Player#0643: folds
+Player#8175: doesn't show hand
+Uncalled bet ($0.60) returned to Player#8175
+Player#8175 collected $0.20 from pot
+*** SUMMARY ***
+Total Pot $0.20 | Rake $0.00
+Seat 1: Player#0643 (big blind) folded before the flop
+Seat 2: Player#8175 shows [] and won ($0.20) with 
+Seat 3: Player#9937 (small blind) mucked
+Seat 4: warioman folded before the flop
+Seat 5: Player#1138 folded before the flop
+
+PokerStars Hand #fb20187b-4204-4c5b-ba00-1ff10c6a0e33:  Hold'em No Limit ($0.1/$0.20 USD) - 2021/11/21 00:00:00 ET
+Table 'Denver' 6-max Seat #2 is the button
+Seat 1: Player#9823 ($54.94 in chips)
+Seat 2: Player#3934 ($19.50 in chips)
+Seat 3: Player#8671 ($20.00 in chips)
+Seat 4: warioman ($19.90 in chips)
+Seat 5: Player#0060 ($37.08 in chips)
+Player#8671: posts small blind $0.10
+Player#0060: posts big blind $0.20
+*** HOLE CARDS ***
+Dealt to warioman [6s 7c]
+Player#8671 Waiting
+Player#3934: folds
+warioman: folds
+Player#0060: folds
+Player#9823 collected $0.20 from pot
+*** SUMMARY ***
+Total Pot $0.20 | Rake $0.00
+Seat 1: Player#9823 shows [] and won ($0.20) with 
+Seat 2: Player#3934 (button) folded before the flop
+Seat 3: Player#8671 (small blind) mucked
+Seat 4: warioman folded before the flop
+Seat 5: Player#0060 (big blind) folded before the flop
+
+PokerStars Hand #3026e245-40a6-43d2-b376-4bf75c106d4f:  Hold'em No Limit ($0.1/$0.20 USD) - 2021/11/20 23:59:00 ET
+Table 'Lacey' 6-max Seat #4 is the button
+Seat 1: warioman ($20.29 in chips)
+Seat 2: Player#9174 ($21.80 in chips)
+Seat 3: Player#5125 ($55.48 in chips)
+Seat 4: Player#9074 ($27.63 in chips)
+Seat 5: Player#7481 ($25.01 in chips)
+Seat 6: Player#5440 ($58.77 in chips)
+Player#7481: posts small blind $0.10
+Player#5440: posts big blind $0.20
+*** HOLE CARDS ***
+Dealt to warioman [Kc Ac]
+warioman: raises $0.20 to $0.5
+Player#9174: calls $0.50
+Player#5125: folds
+Player#9074: calls $0.50
+Player#7481: calls $0.40
+Player#5440: folds
+*** FLOP *** [6d Jh 6h]
+Player#7481: checks
+warioman: checks
+Player#9174: checks
+Player#9074: bets $0.60
+Player#7481: folds
+warioman: folds
+Player#9174: folds
+Player#9074: doesn't show hand
+Uncalled bet ($0.60) returned to Player#9074
+Player#9074 collected $2.09 from pot
+*** SUMMARY ***
+Total Pot $2.20 | Rake $0.11
+Board [6d Jh 6h]
+Seat 1: warioman folded on the flop
+Seat 2: Player#9174 folded on the flop
+Seat 3: Player#5125 folded before the flop
+Seat 4: Player#9074 shows [] and won ($2.09) with 
+Seat 5: Player#7481 (small blind) folded on the flop
+Seat 6: Player#5440 (big blind) folded before the flop
+
+PokerStars Hand #edbc4476-bfe0-4722-b185-c203bbab2382:  Hold'em No Limit ($0.1/$0.20 USD) - 2021/11/20 23:59:00 ET
+Table 'Denver' 6-max Seat #2 is the button
+Seat 1: Player#1329 ($56.62 in chips)
+Seat 2: Player#7800 ($16.10 in chips)
+Seat 3: warioman ($20.00 in chips)
+Seat 4: Player#5846 ($37.28 in chips)
+Seat 5: Player#7897 ($1.68 in chips)
+warioman: posts small blind $0.10
+Player#5846: posts big blind $0.20
+*** HOLE CARDS ***
+Dealt to warioman [Qs Kh]
+Player#7897: raises $0.20 to $1.68
+Player#1329: calls $1.68
+Player#7800: raises $1.68 to $3.51
+warioman: folds
+Player#5846: folds
+Player#1329: folds
+Player#7897 Showing Pocket Cards 73
+Player#7800 Showing Pocket Cards AA
+*** FLOP *** [Qh Jh 5h]
+*** TURN *** [Qh Jh 5h] [4h]
+*** RIVER *** [Qh Jh 5h] [4h] [5h]
+Uncalled bet ($3.51) returned to Player#7800
+Player#7800 collected $3.48 from pot
+*** SUMMARY ***
+Total Pot $3.66 | Rake $0.18
+Board [Qh Jh 5h 4h 5h]
+Seat 1: Player#1329 folded before the flop
+Seat 2: Player#7800 shows [Ah Ac] and won ($3.48) with 
+Seat 3: warioman (small blind) folded before the flop
+Seat 4: Player#5846 (big blind) folded before the flop
+Seat 5: Player#7897 mucked
+
+PokerStars Hand #38a27c08-6a3b-489c-b84a-751ef31b49ed:  Hold'em No Limit ($0.1/$0.20 USD) - 2021/11/20 23:59:00 ET
+Table 'Lacey' 6-max Seat #3 is the button
+Seat 1: warioman ($19.99 in chips)
+Seat 2: Player#9732 ($21.80 in chips)
+Seat 3: Player#0647 ($55.48 in chips)
+Seat 4: Player#1232 ($27.73 in chips)
+Seat 5: Player#2335 ($25.21 in chips)
+Seat 6: Player#4641 ($58.77 in chips)
+Player#1232: posts small blind $0.10
+Player#2335: posts big blind $0.20
+*** HOLE CARDS ***
+Dealt to warioman [Ks Ac]
+Player#4641: folds
+warioman: raises $0.20 to $0.5
+Player#9732: folds
+Player#0647: folds
+Player#1232: folds
+Player#2335: folds
+warioman: doesn't show hand
+Uncalled bet ($0.50) returned to warioman
+warioman collected $0.30 from pot
+*** SUMMARY ***
+Total Pot $0.30 | Rake $0.00
+Seat 1: warioman
+Seat 2: Player#9732 folded before the flop
+Seat 3: Player#0647 (button) folded before the flop
+Seat 4: Player#1232 (small blind) folded before the flop
+Seat 5: Player#2335 (big blind) folded before the flop
+Seat 6: Player#4641 folded before the flop
+
+PokerStars Hand #6ee5a056-eddf-44c1-a7d3-bec85cd04a18:  Hold'em No Limit ($0.1/$0.20 USD) - 2021/11/20 23:59:00 ET
+Table 'Lacey' 6-max Seat #2 is the button
+Seat 1: warioman ($19.69 in chips)
+Seat 2: Player#1093 ($21.80 in chips)
+Seat 3: Player#6131 ($55.58 in chips)
+Seat 4: Player#6072 ($27.93 in chips)
+Seat 5: Player#4164 ($25.21 in chips)
+Seat 6: Player#3751 ($58.77 in chips)
+Player#6131: posts small blind $0.10
+Player#6072: posts big blind $0.20
+*** HOLE CARDS ***
+Dealt to warioman [Qd As]
+Player#4164: folds
+Player#3751: folds
+warioman: raises $0.20 to $0.5
+Player#1093: folds
+Player#6131: folds
+Player#6072: folds
+warioman: doesn't show hand
+Uncalled bet ($0.50) returned to warioman
+warioman collected $0.30 from pot
+*** SUMMARY ***
+Total Pot $0.30 | Rake $0.00
+Seat 1: warioman
+Seat 2: Player#1093 (button) folded before the flop
+Seat 3: Player#6131 (small blind) folded before the flop
+Seat 4: Player#6072 (big blind) folded before the flop
+Seat 5: Player#4164 folded before the flop
+Seat 6: Player#3751 folded before the flop
+
+PokerStars Hand #b0a28e2f-0d8b-47d6-ac9f-160a0a787358:  Hold'em No Limit ($0.1/$0.20 USD) - 2021/11/20 23:59:00 ET
+Table 'Denver' 6-max Seat #1 is the button
+Seat 1: Player#5873 ($56.62 in chips)
+Seat 2: Player#3602 ($16.88 in chips)
+Seat 3: warioman ($19.14 in chips)
+Seat 4: Player#4095 ($37.28 in chips)
+Seat 5: Player#9140 ($0.78 in chips)
+Player#3602: posts small blind $0.10
+warioman: posts big blind $0.20
+*** HOLE CARDS ***
+Dealt to warioman [Js 5d]
+Player#4095: folds
+Player#9140: raises $0.20 to $0.78
+Player#5873: folds
+Player#3602: raises $0.78 to $1.91
+warioman: folds
+Player#3602 Showing Pocket Cards 6A
+Player#9140 Showing Pocket Cards K9
+*** FLOP *** [8d 4d 4h]
+*** TURN *** [8d 4d 4h] [Td]
+*** RIVER *** [8d 4d 4h] [Td] [9s]
+Uncalled bet ($1.91) returned to Player#3602
+Player#9140 collected $0.93 from pot
+*** SUMMARY ***
+Total Pot $0.98 | Rake $0.05
+Board [8d 4d 4h Td 9s]
+Seat 1: Player#5873 (button) folded before the flop
+Seat 2: Player#3602 (small blind) mucked
+Seat 3: warioman (big blind) folded before the flop
+Seat 4: Player#4095 folded before the flop
+Seat 5: Player#9140 shows [Kh 9c] and won ($0.93) with 
+
+PokerStars Hand #107dae84-1436-4774-8017-09e1716ac096:  Hold'em No Limit ($0.1/$0.20 USD) - 2021/11/20 23:58:00 ET
+Table 'Lacey' 6-max Seat #1 is the button
+Seat 1: warioman ($19.14 in chips)
+Seat 2: Player#7487 ($21.90 in chips)
+Seat 3: Player#0680 ($56.08 in chips)
+Seat 4: Player#5518 ($27.93 in chips)
+Seat 5: Player#8198 ($25.21 in chips)
+Seat 6: Player#6649 ($58.77 in chips)
+Player#7487: posts small blind $0.10
+Player#0680: posts big blind $0.20
+*** HOLE CARDS ***
+Dealt to warioman [Ad Kc]
+Player#5518: folds
+Player#8198: folds
+Player#6649: folds
+warioman: raises $0.20 to $0.5
+Player#7487: folds
+Player#0680: calls $0.30
+*** FLOP *** [6c 2c Ac]
+Player#0680: checks
+warioman: bets $0.33
+Player#0680: folds
+warioman: doesn't show hand
+Uncalled bet ($0.33) returned to warioman
+warioman collected $1.05 from pot
+*** SUMMARY ***
+Total Pot $1.10 | Rake $0.06
+Board [6c 2c Ac]
+Seat 1: warioman (button)
+Seat 2: Player#7487 (small blind) folded before the flop
+Seat 3: Player#0680 (big blind) folded on the flop
+Seat 4: Player#5518 folded before the flop
+Seat 5: Player#8198 folded before the flop
+Seat 6: Player#6649 folded before the flop
+
+PokerStars Hand #994127c8-fa81-4857-a1a7-25fe7eb4922c:  Hold'em No Limit ($0.1/$0.20 USD) - 2021/11/20 23:58:00 ET
+Table 'Denver' 6-max Seat #6 is the button
+Seat 1: Player#3806 ($56.72 in chips)
+Seat 2: Player#9740 ($17.08 in chips)
+Seat 3: warioman ($19.64 in chips)
+Seat 4: Player#8332 ($19.22 in chips)
+Seat 5: Player#2038 ($20.00 in chips)
+Player#3806: posts small blind $0.10
+Player#9740: posts big blind $0.20
+*** HOLE CARDS ***
+Dealt to warioman [Ah Td]
+warioman: raises $0.20 to $0.5
+Player#8332: raises $0.50 to $1.4
+Player#2038: calls $1.40
+Player#3806: folds
+Player#9740: folds
+warioman: folds
+*** FLOP *** [5c 2c 2s]
+Player#8332: bets $1.80
+Player#2038: calls $1.80
+*** TURN *** [5c 2c 2s] [7c]
+Player#8332: bets $3.60
+Player#2038: calls $3.60
+*** RIVER *** [5c 2c 2s] [7c] [6c]
+Player#8332: bets $12.42
+Player#2038: calls $12.42
+*** SHOW DOWN *** 
+Player#2038: doesn't show hand
+Player#8332 collected $37.74 from pot
+*** SUMMARY ***
+Total Pot $39.24 | Rake $1.50
+Board [5c 2c 2s 7c 6c]
+Seat 1: Player#3806 (small blind) folded before the flop
+Seat 2: Player#9740 (big blind) folded before the flop
+Seat 3: warioman folded before the flop
+Seat 4: Player#8332 shows [Qd Qs] and won ($37.74) with 
+Seat 5: Player#2038 mucked
+
+PokerStars Hand #8c2cd89e-56bd-4c84-8d91-72e59b150582:  Hold'em No Limit ($0.1/$0.20 USD) - 2021/11/20 23:58:00 ET
+Table 'Lacey' 6-max Seat #6 is the button
+Seat 1: warioman ($19.24 in chips)
+Seat 2: Player#8586 ($20.68 in chips)
+Seat 3: Player#4767 ($57.33 in chips)
+Seat 4: Player#4158 ($27.93 in chips)
+Seat 5: Player#9622 ($25.21 in chips)
+Seat 6: Player#6735 ($58.77 in chips)
+warioman: posts small blind $0.10
+Player#8586: posts big blind $0.20
+*** HOLE CARDS ***
+Dealt to warioman [9c Ad]
+Player#4767: raises $0.20 to $0.6
+Player#4158: folds
+Player#9622: folds
+Player#6735: folds
+warioman: folds
+Player#8586: calls $0.40
+*** FLOP *** [8c Jc Ts]
+Player#8586: checks
+Player#4767: checks
+*** TURN *** [8c Jc Ts] [7h]
+Player#8586: bets $0.65
+Player#4767: calls $0.65
+*** RIVER *** [8c Jc Ts] [7h] [Qh]
+Player#8586: bets $1.30
+Player#4767: folds
+Player#8586: doesn't show hand
+Uncalled bet ($1.30) returned to Player#8586
+Player#8586 collected $2.47 from pot
+*** SUMMARY ***
+Total Pot $2.60 | Rake $0.13
+Board [8c Jc Ts 7h Qh]
+Seat 1: warioman (small blind) folded before the flop
+Seat 2: Player#8586 shows [] and won ($2.47) with 
+Seat 3: Player#4767 folded on the river
+Seat 4: Player#4158 folded before the flop
+Seat 5: Player#9622 folded before the flop
+Seat 6: Player#6735 (button) folded before the flop
+
+PokerStars Hand #88a6d355-c6e0-454b-bd30-6f8c8c8d452c:  Hold'em No Limit ($0.1/$0.20 USD) - 2021/11/20 23:57:00 ET
+Table 'Denver' 6-max Seat #4 is the button
+Seat 1: Player#5534 ($54.93 in chips)
+Seat 2: Player#1359 ($17.08 in chips)
+Seat 3: warioman ($19.64 in chips)
+Seat 4: Player#0919 ($19.22 in chips)
+Seat 5: Player#8183 ($21.98 in chips)
+Player#8183: posts small blind $0.10
+Player#5534: posts big blind $0.20
+*** HOLE CARDS ***
+Dealt to warioman [7h Ts]
+Player#1359: folds
+warioman: folds
+Player#0919: folds
+Player#8183: calls $0.10
+Player#5534: raises $0.20 to $0.4
+Player#8183: calls $0.20
+*** FLOP *** [8h Ad 7d]
+Player#8183: checks
+Player#5534: bets $0.29
+Player#8183: calls $0.29
+*** TURN *** [8h Ad 7d] [Td]
+Player#8183: checks
+Player#5534: bets $0.69
+Player#8183: calls $0.69
+*** RIVER *** [8h Ad 7d] [Td] [Ad]
+Player#8183: bets $0.60
+Player#5534: raises $0.60 to $1.28
+Player#8183: folds
+Player#5534: doesn't show hand
+Uncalled bet ($1.28) returned to Player#5534
+Player#5534 collected $3.19 from pot
+*** SUMMARY ***
+Total Pot $3.36 | Rake $0.17
+Board [8h Ad 7d Td Ad]
+Seat 1: Player#5534 shows [] and won ($3.19) with 
+Seat 2: Player#1359 folded before the flop
+Seat 3: warioman folded before the flop
+Seat 4: Player#0919 (button) folded before the flop
+Seat 5: Player#8183 (small blind) folded on the river
+
+PokerStars Hand #a52c1853-1400-4385-b4a2-d85960cb3424:  Hold'em No Limit ($0.1/$0.20 USD) - 2021/11/20 23:57:00 ET
+Table 'Denver' 6-max Seat #3 is the button
+Seat 1: Player#2642 ($54.93 in chips)
+Seat 2: Player#3432 ($15.90 in chips)
+Seat 3: warioman ($19.64 in chips)
+Seat 4: Player#0967 ($19.32 in chips)
+Seat 5: Player#2316 ($23.18 in chips)
+Player#0967: posts small blind $0.10
+Player#2316: posts big blind $0.20
+*** HOLE CARDS ***
+Dealt to warioman [6s 8h]
+Player#2642: folds
+Player#3432: raises $0.20 to $1.2
+warioman: folds
+Player#0967: folds
+Player#2316: calls $1.00
+*** FLOP *** [Ad 8d 8c]
+Player#2316: checks
+Player#3432: checks
+*** TURN *** [Ad 8d 8c] [7s]
+Player#2316: checks
+Player#3432: bets $1.25
+Player#2316: folds
+Player#3432: doesn't show hand
+Uncalled bet ($1.25) returned to Player#3432
+Player#3432 collected $2.38 from pot
+*** SUMMARY ***
+Total Pot $2.50 | Rake $0.12
+Board [Ad 8d 8c 7s]
+Seat 1: Player#2642 folded before the flop
+Seat 2: Player#3432 shows [] and won ($2.38) with 
+Seat 3: warioman (button) folded before the flop
+Seat 4: Player#0967 (small blind) folded before the flop
+Seat 5: Player#2316 (big blind) folded on the turn
+
+PokerStars Hand #e52a73f0-3cad-46bd-99e6-41bdf216cde8:  Hold'em No Limit ($0.1/$0.20 USD) - 2021/11/20 23:56:00 ET
+Table 'Denver' 6-max Seat #2 is the button
+Seat 1: Player#0858 ($54.93 in chips)
+Seat 2: Player#6679 ($15.60 in chips)
+Seat 3: warioman ($19.74 in chips)
+Seat 4: Player#2692 ($19.52 in chips)
+Seat 5: Player#1859 ($23.18 in chips)
+warioman: posts small blind $0.10
+Player#2692: posts big blind $0.20
+*** HOLE CARDS ***
+Dealt to warioman [2h 7c]
+Player#1859: folds
+Player#0858: folds
+Player#6679: raises0.20 to $1
+warioman: folds
+Player#2692: folds
+Player#6679: doesn't show hand
+Uncalled bet ($1.00) returned to Player#6679
+Player#6679 collected $0.30 from pot
+*** SUMMARY ***
+Total Pot $0.30 | Rake $0.00
+Seat 1: Player#0858 folded before the flop
+Seat 2: Player#6679 shows [] and won ($0.30) with 
+Seat 3: warioman (small blind) folded before the flop
+Seat 4: Player#2692 (big blind) folded before the flop
+Seat 5: Player#1859 folded before the flop
+
+PokerStars Hand #1101f17f-0849-4b2e-bfff-e73ac99ba5f1:  Hold'em No Limit ($0.1/$0.20 USD) - 2021/11/20 23:56:00 ET
+Table 'Lacey' 6-max Seat #5 is the button
+Seat 1: warioman ($19.44 in chips)
+Seat 2: Player#6457 ($20.68 in chips)
+Seat 3: Player#1955 ($57.33 in chips)
+Seat 4: Player#7104 ($24.90 in chips)
+Seat 5: Player#9925 ($25.21 in chips)
+Seat 6: Player#2507 ($61.92 in chips)
+Player#2507: posts small blind $0.10
+warioman: posts big blind $0.20
+*** HOLE CARDS ***
+Dealt to warioman [6s Qs]
+Player#6457: folds
+Player#1955: folds
+Player#7104: raises $0.20 to $0.6
+Player#9925: folds
+Player#2507: calls $0.50
+warioman: folds
+*** FLOP *** [9c 8d 4d]
+Player#2507: checks
+Player#7104: bets $0.60
+Player#2507: calls $0.60
+*** TURN *** [9c 8d 4d] [4h]
+Player#2507: checks
+Player#7104: bets $1.95
+Player#2507: calls $1.95
+*** RIVER *** [9c 8d 4d] [4h] [Ah]
+Player#2507: checks
+Player#7104: bets $8.80
+Player#2507: folds
+Player#7104: doesn't show hand
+Uncalled bet ($8.80) returned to Player#7104
+Player#7104 collected $6.17 from pot
+*** SUMMARY ***
+Total Pot $6.50 | Rake $0.33
+Board [9c 8d 4d 4h Ah]
+Seat 1: warioman (big blind) folded before the flop
+Seat 2: Player#6457 folded before the flop
+Seat 3: Player#1955 folded before the flop
+Seat 4: Player#7104 shows [] and won ($6.17) with 
+Seat 5: Player#9925 (button) folded before the flop
+Seat 6: Player#2507 (small blind) folded on the river
+
+PokerStars Hand #72f3ecb5-ffa0-44d5-aab5-1747b1708c9a:  Hold'em No Limit ($0.1/$0.20 USD) - 2021/11/20 23:56:00 ET
+Table 'Lacey' 6-max Seat #4 is the button
+Seat 1: warioman ($19.44 in chips)
+Seat 2: Player#2122 ($20.68 in chips)
+Seat 3: Player#6256 ($57.33 in chips)
+Seat 4: Player#4316 ($24.90 in chips)
+Seat 5: Player#9333 ($25.31 in chips)
+Seat 6: Player#1753 ($61.82 in chips)
+Player#9333: posts small blind $0.10
+Player#1753: posts big blind $0.20
+*** HOLE CARDS ***
+Dealt to warioman [Qs 4h]
+warioman: folds
+Player#2122: folds
+Player#6256: folds
+Player#4316: folds
+Player#9333: folds
+Player#1753 collected $0.20 from pot
+*** SUMMARY ***
+Total Pot $0.20 | Rake $0.00
+Seat 1: warioman folded before the flop
+Seat 2: Player#2122 folded before the flop
+Seat 3: Player#6256 folded before the flop
+Seat 4: Player#4316 (button) folded before the flop
+Seat 5: Player#9333 (small blind) folded before the flop
+Seat 6: Player#1753 shows [] and won ($0.20) with 
+
+PokerStars Hand #71ea2000-904e-4d57-aede-95a6f8e831ec:  Hold'em No Limit ($0.1/$0.20 USD) - 2021/11/20 23:56:00 ET
+Table 'Lacey' 6-max Seat #3 is the button
+Seat 1: warioman ($19.44 in chips)
+Seat 2: Player#0739 ($20.68 in chips)
+Seat 3: Player#8406 ($57.33 in chips)
+Seat 4: Player#2393 ($25.00 in chips)
+Seat 5: Player#6711 ($25.21 in chips)
+Seat 6: Player#3231 ($61.82 in chips)
+Player#2393: posts small blind $0.10
+Player#6711: posts big blind $0.20
+*** HOLE CARDS ***
+Dealt to warioman [Kd 4h]
+Player#3231: folds
+warioman: folds
+Player#0739: folds
+Player#8406: folds
+Player#2393: folds
+Player#6711 collected $0.20 from pot
+*** SUMMARY ***
+Total Pot $0.20 | Rake $0.00
+Seat 1: warioman folded before the flop
+Seat 2: Player#0739 folded before the flop
+Seat 3: Player#8406 (button) folded before the flop
+Seat 4: Player#2393 (small blind) folded before the flop
+Seat 5: Player#6711 shows [] and won ($0.20) with 
+Seat 6: Player#3231 folded before the flop
+
+PokerStars Hand #79f6c9b5-3718-4fc2-b421-735265ecb83c:  Hold'em No Limit ($0.1/$0.20 USD) - 2021/11/20 23:55:00 ET
+Table 'Denver' 6-max Seat #1 is the button
+Seat 1: Player#7673 ($54.93 in chips)
+Seat 2: Player#7960 ($19.80 in chips)
+Seat 3: warioman ($19.94 in chips)
+Seat 4: Player#4366 ($14.60 in chips)
+Seat 5: Player#3670 ($23.18 in chips)
+Player#7960: posts small blind $0.10
+warioman: posts big blind $0.20
+*** HOLE CARDS ***
+Dealt to warioman [Qs 6h]
+System Bonus Pot Event 1
+Player#4366: raises $0.20 to $0.6
+Player#3670: folds
+Player#7673: folds
+Player#7960: calls $0.50
+warioman: folds
+*** FLOP *** [5d 8d Tc]
+Player#7960: checks
+Player#4366: bets $1.20
+Player#7960: calls $1.20
+*** TURN *** [5d 8d Tc] [Kh]
+Player#7960: checks
+Player#4366: bets $2.40
+Player#7960: calls $2.40
+*** RIVER *** [5d 8d Tc] [Kh] [3h]
+Player#7960: checks
+Player#4366: bets $9.60
+Player#7960: folds
+Player#4366: doesn't show hand
+Uncalled bet ($9.60) returned to Player#4366
+Player#4366 collected $8.17 from pot
+*** SUMMARY ***
+Total Pot $8.60 | Rake $0.43
+Board [5d 8d Tc Kh 3h]
+Seat 1: Player#7673 (button) folded before the flop
+Seat 2: Player#7960 (small blind) folded on the river
+Seat 3: warioman (big blind) folded before the flop
+Seat 4: Player#4366 shows [] and won ($8.17) with 
+Seat 5: Player#3670 folded before the flop
+
+PokerStars Hand #7a6e95d5-4064-47e5-ae1c-d21779b821c9:  Hold'em No Limit ($0.1/$0.20 USD) - 2021/11/20 23:55:00 ET
+Table 'Lacey' 6-max Seat #2 is the button
+Seat 1: warioman ($19.44 in chips)
+Seat 2: Player#1060 ($20.68 in chips)
+Seat 3: Player#0483 ($57.53 in chips)
+Seat 4: Player#6135 ($24.82 in chips)
+Seat 5: Player#1448 ($25.21 in chips)
+Seat 6: Player#4125 ($61.82 in chips)
+Player#0483: posts small blind $0.10
+Player#6135: posts big blind $0.20
+*** HOLE CARDS ***
+Dealt to warioman [6h 2d]
+Player#1448: folds
+Player#4125: folds
+warioman: folds
+Player#1060: folds
+Player#0483: calls $0.10
+Player#6135: checks
+*** FLOP *** [7s 9s 4d]
+Player#0483: checks
+Player#6135: checks
+*** TURN *** [7s 9s 4d] [Th]
+Player#0483: checks
+Player#6135: checks
+*** RIVER *** [7s 9s 4d] [Th] [Qh]
+Player#0483: checks
+Player#6135: bets $0.40
+Player#0483: folds
+Player#6135: doesn't show hand
+Uncalled bet ($0.40) returned to Player#6135
+Player#6135 collected $0.38 from pot
+*** SUMMARY ***
+Total Pot $0.40 | Rake $0.02
+Board [7s 9s 4d Th Qh]
+Seat 1: warioman folded before the flop
+Seat 2: Player#1060 (button) folded before the flop
+Seat 3: Player#0483 (small blind) folded on the river
+Seat 4: Player#6135 shows [] and won ($0.38) with 
+Seat 5: Player#1448 folded before the flop
+Seat 6: Player#4125 folded before the flop
+
+PokerStars Hand #8dee2d1e-ed7b-4d16-af9c-616c5c028098:  Hold'em No Limit ($0.1/$0.20 USD) - 2021/11/20 23:55:00 ET
+Table 'Denver' 6-max Seat #6 is the button
+Seat 1: Player#8970 ($55.03 in chips)
+Seat 2: Player#2962 ($20.00 in chips)
+Seat 3: warioman ($19.94 in chips)
+Seat 4: Player#1795 ($13.77 in chips)
+Seat 5: Player#6844 ($23.78 in chips)
+Player#8970: posts small blind $0.10
+Player#2962: posts big blind $0.20
+*** HOLE CARDS ***
+Dealt to warioman [Qh 4s]
+warioman: folds
+Player#1795: raises $0.20 to $0.6
+Player#6844: calls $0.60
+Player#8970: folds
+Player#2962: folds
+*** FLOP *** [Th 6s 7d]
+Player#1795: checks
+Player#6844: checks
+*** TURN *** [Th 6s 7d] [2c]
+Player#1795: checks
+Player#6844: checks
+*** RIVER *** [Th 6s 7d] [2c] [9c]
+Player#1795: bets $0.95
+Player#6844: folds
+Player#1795: doesn't show hand
+Uncalled bet ($0.95) returned to Player#1795
+Player#1795 collected $1.43 from pot
+*** SUMMARY ***
+Total Pot $1.50 | Rake $0.08
+Board [Th 6s 7d 2c 9c]
+Seat 1: Player#8970 (small blind) folded before the flop
+Seat 2: Player#2962 (big blind) folded before the flop
+Seat 3: warioman folded before the flop
+Seat 4: Player#1795 shows [] and won ($1.43) with 
+Seat 5: Player#6844 folded on the river
+
+PokerStars Hand #75197441-cc1a-4193-9b75-a08ef3e5f0be:  Hold'em No Limit ($0.1/$0.20 USD) - 2021/11/20 23:55:00 ET
+Table 'Lacey' 6-max Seat #1 is the button
+Seat 1: warioman ($19.44 in chips)
+Seat 2: Player#6661 ($20.50 in chips)
+Seat 3: Player#5007 ($57.73 in chips)
+Seat 4: Player#1894 ($24.82 in chips)
+Seat 5: Player#8547 ($25.21 in chips)
+Seat 6: Player#0433 ($61.82 in chips)
+Player#6661: posts small blind $0.10
+Player#5007: posts big blind $0.20
+*** HOLE CARDS ***
+Dealt to warioman [5h 6s]
+Player#1894: folds
+Player#8547: folds
+Player#0433: folds
+warioman: folds
+Player#6661: calls $0.10
+Player#5007: checks
+*** FLOP *** [9d 8s 3c]
+Player#6661: checks
+Player#5007: checks
+*** TURN *** [9d 8s 3c] [4c]
+Player#6661: bets $0.40
+Player#5007: folds
+Player#6661: doesn't show hand
+Uncalled bet ($0.40) returned to Player#6661
+Player#6661 collected $0.38 from pot
+*** SUMMARY ***
+Total Pot $0.40 | Rake $0.02
+Board [9d 8s 3c 4c]
+Seat 1: warioman (button) folded before the flop
+Seat 2: Player#6661 shows [] and won ($0.38) with 
+Seat 3: Player#5007 (big blind) folded on the turn
+Seat 4: Player#1894 folded before the flop
+Seat 5: Player#8547 folded before the flop
+Seat 6: Player#0433 folded before the flop
+
+PokerStars Hand #92d1a503-8cef-4abe-a4c3-1810e19389eb:  Hold'em No Limit ($0.1/$0.20 USD) - 2021/11/20 23:54:00 ET
+Table 'Lacey' 6-max Seat #6 is the button
+Seat 1: warioman ($19.54 in chips)
+Seat 2: Player#2012 ($20.70 in chips)
+Seat 3: Player#5459 ($57.73 in chips)
+Seat 4: Player#5560 ($25.22 in chips)
+Seat 5: Player#5793 ($25.21 in chips)
+Seat 6: Player#1323 ($61.17 in chips)
+warioman: posts small blind $0.10
+Player#2012: posts big blind $0.20
+*** HOLE CARDS ***
+Dealt to warioman [2s 9c]
+Player#5459: folds
+Player#5560: raises $0.20 to $0.4
+Player#5793: folds
+Player#1323: calls $0.40
+warioman: folds
+Player#2012: folds
+*** FLOP *** [2c Ks 2h]
+Player#5560: checks
+Player#1323: bets $0.20
+Player#5560: folds
+Player#1323: doesn't show hand
+Uncalled bet ($0.20) returned to Player#1323
+Player#1323 collected $1.05 from pot
+*** SUMMARY ***
+Total Pot $1.10 | Rake $0.06
+Board [2c Ks 2h]
+Seat 1: warioman (small blind) folded before the flop
+Seat 2: Player#2012 (big blind) folded before the flop
+Seat 3: Player#5459 folded before the flop
+Seat 4: Player#5560 folded on the flop
+Seat 5: Player#5793 folded before the flop
+Seat 6: Player#1323 shows [] and won ($1.05) with 
+
+PokerStars Hand #7ea375fa-80da-4869-8e72-3913a705a613:  Hold'em No Limit ($0.1/$0.20 USD) - 2021/11/20 23:54:00 ET
+Table 'Denver' 6-max Seat #1 is the button
+Seat 1: Player#8034 ($55.23 in chips)
+Seat 2: Player#9297 ($20.00 in chips)
+Seat 3: Player#6534 ($73.15 in chips)
+Seat 4: warioman ($21.44 in chips)
+Seat 5: Player#1966 ($14.27 in chips)
+Seat 6: Player#5234 ($21.76 in chips)
+Player#9297: posts small blind $0.10
+Player#5234: posts big blind $0.20
+*** HOLE CARDS ***
+Dealt to warioman [Qs Ks]
+Player#9297 Waiting
+Player#6534: folds
+warioman: raises $0.20 to $0.5
+Player#1966: calls $0.50
+Player#5234: calls $0.40
+Player#8034: folds
+*** FLOP *** [Jh 9s 9c]
+Player#5234: bets $0.40
+warioman: calls $0.40
+Player#1966: folds
+*** TURN *** [Jh 9s 9c] [2s]
+Player#5234: bets $0.60
+warioman: calls $0.60
+*** RIVER *** [Jh 9s 9c] [2s] [As]
+Player#5234: bets $0.60
+warioman: folds
+Player#5234: doesn't show hand
+Uncalled bet ($0.60) returned to Player#5234
+Player#5234 collected $3.51 from pot
+*** SUMMARY ***
+Total Pot $3.70 | Rake $0.18
+Board [Jh 9s 9c 2s As]
+Seat 1: Player#8034 (button) folded before the flop
+Seat 2: Player#9297 (small blind) mucked
+Seat 3: Player#6534 folded before the flop
+Seat 4: warioman folded on the river
+Seat 5: Player#1966 folded on the flop
+Seat 6: Player#5234 shows [] and won ($3.51) with 
+
+PokerStars Hand #98d034bb-ee8a-4d8f-941a-cbc388cf70a8:  Hold'em No Limit ($0.1/$0.20 USD) - 2021/11/20 23:54:00 ET
+Table 'Denver' 6-max Seat #1 is the button
+Seat 1: Player#9979 ($55.23 in chips)
+Seat 2: Player#9962 ($20.00 in chips)
+Seat 3: Player#0018 ($73.15 in chips)
+Seat 4: warioman ($21.44 in chips)
+Seat 5: Player#8938 ($14.37 in chips)
+Seat 6: Player#8231 ($21.66 in chips)
+Player#9962: posts small blind $0.10
+Player#8938: posts big blind $0.20
+*** HOLE CARDS ***
+Dealt to warioman [4s Th]
+Player#9962 Waiting
+Player#9979: folds
+Player#0018: folds
+warioman: folds
+Player#8938: folds
+Player#8231 collected $0.20 from pot
+*** SUMMARY ***
+Total Pot $0.20 | Rake $0.00
+Seat 1: Player#9979 (button) folded before the flop
+Seat 2: Player#9962 (small blind) mucked
+Seat 3: Player#0018 folded before the flop
+Seat 4: warioman folded before the flop
+Seat 5: Player#8938 (big blind) folded before the flop
+Seat 6: Player#8231 shows [] and won ($0.20) with 
+
+PokerStars Hand #7a477504-67bc-48e1-a36d-3067ba610322:  Hold'em No Limit ($0.1/$0.20 USD) - 2021/11/20 23:53:00 ET
+Table 'Lacey' 6-max Seat #5 is the button
+Seat 1: warioman ($19.00 in chips)
+Seat 2: Player#4726 ($20.70 in chips)
+Seat 3: Player#6261 ($57.73 in chips)
+Seat 4: Player#4958 ($25.22 in chips)
+Seat 5: Player#2178 ($25.21 in chips)
+Seat 6: Player#3972 ($61.77 in chips)
+Player#3972: posts small blind $0.10
+warioman: posts big blind $0.20
+*** HOLE CARDS ***
+Dealt to warioman [Qd Ac]
+Player#4726: folds
+Player#6261: folds
+Player#4958: folds
+Player#2178: folds
+Player#3972: calls $0.10
+warioman: raises $0.20 to $0.6
+Player#3972: calls $0.40
+*** FLOP *** [6c 4c Jh]
+Player#3972: checks
+warioman: checks
+*** TURN *** [6c 4c Jh] [Ad]
+Player#3972: checks
+warioman: bets $0.56
+Player#3972: folds
+warioman: doesn't show hand
+Uncalled bet ($0.56) returned to warioman
+warioman collected $1.14 from pot
+*** SUMMARY ***
+Total Pot $1.20 | Rake $0.06
+Board [6c 4c Jh Ad]
+Seat 1: warioman (big blind)
+Seat 2: Player#4726 folded before the flop
+Seat 3: Player#6261 folded before the flop
+Seat 4: Player#4958 folded before the flop
+Seat 5: Player#2178 (button) folded before the flop
+Seat 6: Player#3972 (small blind) folded on the turn
+
+PokerStars Hand #6529040f-3de4-446f-b80a-451d12e8d9a0:  Hold'em No Limit ($0.1/$0.20 USD) - 2021/11/20 23:52:00 ET
+Table 'Denver' 6-max Seat #2 is the button
+Seat 1: Player#3030 ($57.63 in chips)
+Seat 2: Player#1085 ($73.35 in chips)
+Seat 3: warioman ($21.54 in chips)
+Seat 4: Player#6703 ($11.92 in chips)
+Seat 5: Player#5038 ($21.66 in chips)
+warioman: posts small blind $0.10
+Player#6703: posts big blind $0.20
+*** HOLE CARDS ***
+Dealt to warioman [5d Qs]
+Player#5038: folds
+Player#3030: calls $0.20
+Player#1085: calls $0.20
+warioman: folds
+Player#6703: checks
+*** FLOP *** [4d Th Ts]
+Player#6703: checks
+Player#3030: checks
+Player#1085: checks
+*** TURN *** [4d Th Ts] [5h]
+Player#6703: checks
+Player#3030: bets $0.50
+Player#1085: folds
+Player#6703: calls $0.50
+*** RIVER *** [4d Th Ts] [5h] [Qh]
+Player#6703: bets $1.70
+Player#3030: calls $1.70
+*** SHOW DOWN *** 
+Player#3030: doesn't show hand
+Player#6703 collected $4.84 from pot
+*** SUMMARY ***
+Total Pot $5.10 | Rake $0.26
+Board [4d Th Ts 5h Qh]
+Seat 1: Player#3030 mucked
+Seat 2: Player#1085 (button) folded on the turn
+Seat 3: warioman (small blind) folded before the flop
+Seat 4: Player#6703 shows [4s Td] and won ($4.84) with 
+Seat 5: Player#5038 folded before the flop
+
+PokerStars Hand #3235f063-3c05-4adf-bb75-7d536ec08320:  Hold'em No Limit ($0.1/$0.20 USD) - 2021/11/20 23:52:00 ET
+Table 'Lacey' 6-max Seat #4 is the button
+Seat 1: warioman ($19.00 in chips)
+Seat 2: Player#4632 ($20.70 in chips)
+Seat 3: Player#5031 ($57.73 in chips)
+Seat 4: Player#4162 ($27.17 in chips)
+Seat 5: Player#6805 ($22.88 in chips)
+Seat 6: Player#5970 ($62.37 in chips)
+Player#6805: posts small blind $0.10
+Player#5970: posts big blind $0.20
+*** HOLE CARDS ***
+Dealt to warioman [Ts Jh]
+warioman: folds
+Player#4632: folds
+Player#5031: folds
+Player#4162: raises $0.20 to $0.6
+Player#6805: calls $0.50
+Player#5970: calls $0.40
+*** FLOP *** [7d 4d 6c]
+Player#6805: checks
+Player#5970: checks
+Player#4162: checks
+*** TURN *** [7d 4d 6c] [Jc]
+Player#6805: bets $1.35
+Player#5970: folds
+Player#4162: calls $1.35
+*** RIVER *** [7d 4d 6c] [Jc] [8c]
+Player#6805: bets $4.50
+Player#4162: folds
+Player#6805: doesn't show hand
+Uncalled bet ($4.50) returned to Player#6805
+Player#6805 collected $4.28 from pot
+*** SUMMARY ***
+Total Pot $4.50 | Rake $0.23
+Board [7d 4d 6c Jc 8c]
+Seat 1: warioman folded before the flop
+Seat 2: Player#4632 folded before the flop
+Seat 3: Player#5031 folded before the flop
+Seat 4: Player#4162 (button) folded on the river
+Seat 5: Player#6805 shows [] and won ($4.28) with 
+Seat 6: Player#5970 (big blind) folded on the turn
+
+PokerStars Hand #eb77fca6-5ae3-4fd4-ba61-395f60cf1664:  Hold'em No Limit ($0.1/$0.20 USD) - 2021/11/20 23:52:00 ET
+Table 'Denver' 6-max Seat #1 is the button
+Seat 1: Player#8988 ($58.38 in chips)
+Seat 2: Player#0140 ($71.49 in chips)
+Seat 3: warioman ($21.74 in chips)
+Seat 4: Player#3006 ($12.02 in chips)
+Seat 5: Player#1478 ($22.61 in chips)
+Player#0140: posts small blind $0.10
+warioman: posts big blind $0.20
+*** HOLE CARDS ***
+Dealt to warioman [Kc 2h]
+Player#3006: folds
+Player#1478: calls $0.20
+Player#8988: raises $0.20 to $0.75
+Player#0140: calls $0.65
+warioman: folds
+Player#1478: calls $0.55
+*** FLOP *** [4h Kd Js]
+Player#0140: bets $0.20
+Player#1478: calls $0.20
+Player#8988: folds
+*** TURN *** [4h Kd Js] [8h]
+Player#0140: checks
+Player#1478: checks
+*** RIVER *** [4h Kd Js] [8h] [4h]
+Player#0140: bets $0.20
+Player#1478: folds
+Player#0140: doesn't show hand
+Uncalled bet ($0.20) returned to Player#0140
+Player#0140 collected $2.80 from pot
+*** SUMMARY ***
+Total Pot $2.95 | Rake $0.15
+Board [4h Kd Js 8h 4h]
+Seat 1: Player#8988 (button) folded on the flop
+Seat 2: Player#0140 shows [] and won ($2.80) with 
+Seat 3: warioman (big blind) folded before the flop
+Seat 4: Player#3006 folded before the flop
+Seat 5: Player#1478 folded on the river
+
+PokerStars Hand #01a4392d-ddad-422c-8f99-996eaca8565c:  Hold'em No Limit ($0.1/$0.20 USD) - 2021/11/20 23:51:00 ET
+Table 'Denver' 6-max Seat #6 is the button
+Seat 1: Player#9264 ($58.48 in chips)
+Seat 2: Player#6942 ($69.74 in chips)
+Seat 3: warioman ($23.57 in chips)
+Seat 4: Player#0391 ($22.61 in chips)
+Player#9264: posts small blind $0.10
+Player#6942: posts big blind $0.20
+*** HOLE CARDS ***
+Dealt to warioman [Qc Qd]
+warioman: raises $0.20 to $0.5
+Player#0391: folds
+Player#9264: folds
+Player#6942: calls $0.30
+*** FLOP *** [Kh 8d 3s]
+Player#6942: checks
+warioman: checks
+*** TURN *** [Kh 8d 3s] [5c]
+Player#6942: bets $0.20
+warioman: calls $0.20
+*** RIVER *** [Kh 8d 3s] [5c] [2c]
+Player#6942: bets $1.13
+warioman: calls $1.13
+*** SHOW DOWN *** 
+warioman: doesn't show hand
+Player#6942 collected $3.57 from pot
+*** SUMMARY ***
+Total Pot $3.76 | Rake $0.19
+Board [Kh 8d 3s 5c 2c]
+Seat 1: Player#9264 (small blind) folded before the flop
+Seat 2: Player#6942 shows [2c 3c] and won ($3.57) with 
+Seat 3: warioman
+Seat 4: Player#0391 folded before the flop
+
+PokerStars Hand #6405b2d3-1458-4ffb-aae7-adb2590535f3:  Hold'em No Limit ($0.1/$0.20 USD) - 2021/11/20 23:51:00 ET
+Table 'Lacey' 6-max Seat #3 is the button
+Seat 1: warioman ($19.00 in chips)
+Seat 2: Player#7676 ($20.70 in chips)
+Seat 3: Player#0827 ($57.73 in chips)
+Seat 4: Player#7852 ($27.77 in chips)
+Seat 5: Player#3687 ($22.34 in chips)
+Seat 6: Player#1418 ($62.37 in chips)
+Player#7852: posts small blind $0.10
+Player#3687: posts big blind $0.20
+*** HOLE CARDS ***
+Dealt to warioman [7s Qs]
+Player#1418: folds
+warioman: folds
+Player#7676: folds
+Player#0827: folds
+Player#7852: calls $0.10
+Player#3687: raises $0.20 to $0.6
+Player#7852: calls $0.40
+*** FLOP *** [9h Qd Ac]
+Player#7852: checks
+Player#3687: bets $0.60
+Player#7852: folds
+Player#3687: doesn't show hand
+Uncalled bet ($0.60) returned to Player#3687
+Player#3687 collected $1.14 from pot
+*** SUMMARY ***
+Total Pot $1.20 | Rake $0.06
+Board [9h Qd Ac]
+Seat 1: warioman folded before the flop
+Seat 2: Player#7676 folded before the flop
+Seat 3: Player#0827 (button) folded before the flop
+Seat 4: Player#7852 (small blind) folded on the flop
+Seat 5: Player#3687 shows [] and won ($1.14) with 
+Seat 6: Player#1418 folded before the flop
+
+PokerStars Hand #02ceaca7-93d2-45b9-9054-de65d2f92ee7:  Hold'em No Limit ($0.1/$0.20 USD) - 2021/11/20 23:51:00 ET
+Table 'Denver' 6-max Seat #3 is the button
+Seat 1: Player#9084 ($58.68 in chips)
+Seat 2: Player#7937 ($69.94 in chips)
+Seat 3: warioman ($23.57 in chips)
+Seat 4: Player#5475 ($22.24 in chips)
+Player#5475: posts small blind $0.10
+Player#9084: posts big blind $0.20
+*** HOLE CARDS ***
+Dealt to warioman [Ks 8h]
+Player#7937: calls $0.20
+warioman: folds
+Player#5475: calls $0.10
+Player#9084: checks
+*** FLOP *** [Kh Qd 4h]
+Player#5475: bets $0.20
+Player#9084: folds
+Player#7937: folds
+Player#5475: doesn't show hand
+Uncalled bet ($0.20) returned to Player#5475
+Player#5475 collected $0.57 from pot
+*** SUMMARY ***
+Total Pot $0.60 | Rake $0.03
+Board [Kh Qd 4h]
+Seat 1: Player#9084 (big blind) folded on the flop
+Seat 2: Player#7937 folded on the flop
+Seat 3: warioman (button) folded before the flop
+Seat 4: Player#5475 shows [] and won ($0.57) with 
+
+PokerStars Hand #9fa1a107-ce6d-45b0-b0f1-2d8ba73b8343:  Hold'em No Limit ($0.1/$0.20 USD) - 2021/11/20 23:51:00 ET
+Table 'Denver' 6-max Seat #3 is the button
+Seat 1: Player#6882 ($58.68 in chips)
+Seat 2: Player#1069 ($69.76 in chips)
+Seat 3: warioman ($23.57 in chips)
+Seat 4: Player#3288 ($22.44 in chips)
+Player#3288: posts small blind $0.10
+Player#1069: posts big blind $0.20
+*** HOLE CARDS ***
+Dealt to warioman [9s 2c]
+Player#6882: folds
+Player#1069: calls $0.20
+warioman: folds
+Player#3288: checks
+*** FLOP *** [Kc 8h Ad]
+Player#3288: checks
+Player#1069: checks
+*** TURN *** [Kc 8h Ad] [6h]
+Player#3288: checks
+Player#1069: checks
+*** RIVER *** [Kc 8h Ad] [6h] [Th]
+Player#3288: checks
+Player#1069: checks
+*** SHOW DOWN *** 
+Player#1069 collected $0.38 from pot
+*** SUMMARY ***
+Total Pot $0.40 | Rake $0.02
+Board [Kc 8h Ad 6h Th]
+Seat 1: Player#6882 folded before the flop
+Seat 2: Player#1069 shows [9c 3c] and won ($0.38) with 
+Seat 3: warioman (button) folded before the flop
+Seat 4: Player#3288 (small blind) mucked
+
+PokerStars Hand #c09ca016-6a54-4902-a861-8533f1777990:  Hold'em No Limit ($0.1/$0.20 USD) - 2021/11/20 23:50:00 ET
+Table 'Denver' 6-max Seat #2 is the button
+Seat 1: Player#6636 ($58.68 in chips)
+Seat 2: Player#1224 ($64.86 in chips)
+Seat 3: warioman ($23.67 in chips)
+Seat 4: Player#1105 ($4.70 in chips)
+Seat 5: Player#7629 ($23.04 in chips)
+warioman: posts small blind $0.10
+Player#1105: posts big blind $0.20
+*** HOLE CARDS ***
+Dealt to warioman [6s Ac]
+Player#7629: calls $0.20
+Player#6636: folds
+Player#1224: calls $0.20
+warioman: folds
+Player#1105: raises $0.20 to $0.6
+Player#7629: calls $0.40
+Player#1224: calls $0.40
+*** FLOP *** [Td 3h 7s]
+Player#1105: checks
+Player#7629: checks
+Player#1224: bets $0.95
+Player#1105: raises $0.95 to $4.1
+Player#7629: folds
+Player#1224: calls $3.15
+Player#1105 Showing Pocket Cards 88
+Player#1224 Showing Pocket Cards 2T
+*** TURN *** [Td 3h 7s] [5s]
+*** RIVER *** [Td 3h 7s] [5s] [9c]
+Player#1224 collected $9.59 from pot
+*** SUMMARY ***
+Total Pot $10.10 | Rake $0.51
+Board [Td 3h 7s 5s 9c]
+Seat 1: Player#6636 folded before the flop
+Seat 2: Player#1224 shows [2s Ts] and won ($9.59) with 
+Seat 3: warioman (small blind) folded before the flop
+Seat 4: Player#1105 (big blind) mucked
+Seat 5: Player#7629 folded on the flop
+
+PokerStars Hand #f03eb3cb-a76a-47c6-a7a2-7a2e130a3dec:  Hold'em No Limit ($0.1/$0.20 USD) - 2021/11/20 23:50:00 ET
+Table 'Lacey' 6-max Seat #2 is the button
+Seat 1: warioman ($19.00 in chips)
+Seat 2: Player#3734 ($14.82 in chips)
+Seat 3: Player#6958 ($58.33 in chips)
+Seat 4: Player#1834 ($33.67 in chips)
+Seat 5: Player#3409 ($22.34 in chips)
+Seat 6: Player#2820 ($62.37 in chips)
+Player#6958: posts small blind $0.10
+Player#1834: posts big blind $0.20
+*** HOLE CARDS ***
+Dealt to warioman [Js Td]
+Player#3409: folds
+Player#2820: folds
+warioman: folds
+Player#3734: calls $0.20
+Player#6958: calls $0.10
+Player#1834: raises $0.20 to $0.6
+Player#3734: calls $0.40
+Player#6958: calls $0.40
+*** FLOP *** [Ad 3h 5s]
+Player#6958: checks
+Player#1834: bets $0.90
+Player#3734: raises $0.90 to $2.2
+Player#6958: folds
+Player#1834: calls $1.30
+*** TURN *** [Ad 3h 5s] [Jh]
+Player#1834: checks
+Player#3734: bets $3.10
+Player#1834: calls $3.10
+*** RIVER *** [Ad 3h 5s] [Jh] [6h]
+Player#1834: checks
+Player#3734: checks
+*** SHOW DOWN *** 
+Player#3734 collected $11.78 from pot
+*** SUMMARY ***
+Total Pot $12.40 | Rake $0.62
+Board [Ad 3h 5s Jh 6h]
+Seat 1: warioman folded before the flop
+Seat 2: Player#3734 shows [3s As] and won ($11.78) with 
+Seat 3: Player#6958 (small blind) folded on the flop
+Seat 4: Player#1834 (big blind) mucked
+Seat 5: Player#3409 folded before the flop
+Seat 6: Player#2820 folded before the flop
+
+PokerStars Hand #f30681de-3995-4e38-bfa6-96ac4ac729f7:  Hold'em No Limit ($0.1/$0.20 USD) - 2021/11/20 23:50:00 ET
+Table 'Lacey' 6-max Seat #1 is the button
+Seat 1: warioman ($19.00 in chips)
+Seat 2: Player#3263 ($14.92 in chips)
+Seat 3: Player#2600 ($58.23 in chips)
+Seat 4: Player#7172 ($33.67 in chips)
+Seat 5: Player#2127 ($22.34 in chips)
+Seat 6: Player#8532 ($62.37 in chips)
+Player#3263: posts small blind $0.10
+Player#2600: posts big blind $0.20
+*** HOLE CARDS ***
+Dealt to warioman [6c 5s]
+Player#7172: folds
+Player#2127: folds
+Player#8532: folds
+warioman: folds
+Player#3263: folds
+Player#2600 collected $0.20 from pot
+*** SUMMARY ***
+Total Pot $0.20 | Rake $0.00
+Seat 1: warioman (button) folded before the flop
+Seat 2: Player#3263 (small blind) folded before the flop
+Seat 3: Player#2600 shows [] and won ($0.20) with 
+Seat 4: Player#7172 folded before the flop
+Seat 5: Player#2127 folded before the flop
+Seat 6: Player#8532 folded before the flop
+
+PokerStars Hand #eebc8bad-0392-43cc-b735-ea6f0fd36c37:  Hold'em No Limit ($0.1/$0.20 USD) - 2021/11/20 23:49:00 ET
+Table 'Denver' 6-max Seat #1 is the button
+Seat 1: Player#6748 ($58.68 in chips)
+Seat 2: Player#8274 ($64.96 in chips)
+Seat 3: warioman ($23.87 in chips)
+Seat 4: Player#1542 ($6.05 in chips)
+Seat 5: Player#1702 ($21.54 in chips)
+Player#8274: posts small blind $0.10
+warioman: posts big blind $0.20
+*** HOLE CARDS ***
+Dealt to warioman [Td Qh]
+Player#1542: raises $0.20 to $0.6
+Player#1702: calls $0.60
+Player#6748: folds
+Player#8274: folds
+warioman: folds
+*** FLOP *** [9s Kd Qd]
+Player#1542: bets $0.75
+Player#1702: calls $0.75
+*** TURN *** [9s Kd Qd] [4h]
+Player#1542: checks
+Player#1702: bets $0.60
+Player#1542: folds
+Player#1702: doesn't show hand
+Uncalled bet ($0.60) returned to Player#1702
+Player#1702 collected $2.85 from pot
+*** SUMMARY ***
+Total Pot $3.00 | Rake $0.15
+Board [9s Kd Qd 4h]
+Seat 1: Player#6748 (button) folded before the flop
+Seat 2: Player#8274 (small blind) folded before the flop
+Seat 3: warioman (big blind) folded before the flop
+Seat 4: Player#1542 folded on the turn
+Seat 5: Player#1702 shows [] and won ($2.85) with 
+
+PokerStars Hand #b7633249-fcd8-453d-9f93-c15be0ef0147:  Hold'em No Limit ($0.1/$0.20 USD) - 2021/11/20 23:49:00 ET
+Table 'Lacey' 6-max Seat #6 is the button
+Seat 1: warioman ($19.10 in chips)
+Seat 2: Player#9722 ($12.96 in chips)
+Seat 3: Player#1869 ($58.23 in chips)
+Seat 4: Player#6702 ($35.74 in chips)
+Seat 5: Player#5601 ($22.34 in chips)
+Seat 6: Player#5837 ($62.37 in chips)
+warioman: posts small blind $0.10
+Player#9722: posts big blind $0.20
+*** HOLE CARDS ***
+Dealt to warioman [6s Jc]
+Player#1869: folds
+Player#6702: raises $0.20 to $0.4
+Player#5601: folds
+Player#5837: folds
+warioman: folds
+Player#9722: calls $0.20
+*** FLOP *** [Kc 8h 5d]
+Player#9722: checks
+Player#6702: bets $0.40
+Player#9722: calls $0.40
+*** TURN *** [Kc 8h 5d] [7h]
+Player#9722: checks
+Player#6702: bets $1.27
+Player#9722: calls $1.27
+*** RIVER *** [Kc 8h 5d] [7h] [4h]
+Player#9722: checks
+Player#6702: checks
+*** SHOW DOWN *** 
+Player#9722 collected $4.03 from pot
+*** SUMMARY ***
+Total Pot $4.24 | Rake $0.21
+Board [Kc 8h 5d 7h 4h]
+Seat 1: warioman (small blind) folded before the flop
+Seat 2: Player#9722 shows [6h 6d] and won ($4.03) with 
+Seat 3: Player#1869 folded before the flop
+Seat 4: Player#6702 mucked
+Seat 5: Player#5601 folded before the flop
+Seat 6: Player#5837 (button) folded before the flop
+
+PokerStars Hand #f3c5f038-7b72-4468-be8c-ef99c9b68d25:  Hold'em No Limit ($0.1/$0.20 USD) - 2021/11/20 23:48:00 ET
+Table 'Denver' 6-max Seat #6 is the button
+Seat 1: Player#8930 ($59.73 in chips)
+Seat 2: Player#0155 ($62.63 in chips)
+Seat 3: warioman ($23.87 in chips)
+Seat 4: Player#6752 ($6.45 in chips)
+Seat 5: Player#5828 ($22.59 in chips)
+Player#8930: posts small blind $0.10
+Player#0155: posts big blind $0.20
+*** HOLE CARDS ***
+Dealt to warioman [6s Js]
+warioman: folds
+Player#6752: raises $0.20 to $0.4
+Player#5828: calls $0.40
+Player#8930: calls $0.30
+Player#0155: calls $0.20
+*** FLOP *** [8d 9c 9d]
+Player#8930: checks
+Player#0155: checks
+Player#6752: checks
+Player#5828: checks
+*** TURN *** [8d 9c 9d] [Kc]
+Player#8930: bets $0.65
+Player#0155: calls $0.65
+Player#6752: folds
+Player#5828: calls $0.65
+*** RIVER *** [8d 9c 9d] [Kc] [Jc]
+Player#8930: checks
+Player#0155: checks
+Player#5828: checks
+*** SHOW DOWN *** 
+Player#0155 collected $3.37 from pot
+*** SUMMARY ***
+Total Pot $3.55 | Rake $0.18
+Board [8d 9c 9d Kc Jc]
+Seat 1: Player#8930 (small blind) mucked
+Seat 2: Player#0155 shows [Ks 6h] and won ($3.37) with 
+Seat 3: warioman folded before the flop
+Seat 4: Player#6752 folded on the turn
+Seat 5: Player#5828 mucked
+
+PokerStars Hand #f2a3f2a4-4d25-4e66-b332-3afb9ee61f14:  Hold'em No Limit ($0.1/$0.20 USD) - 2021/11/20 23:48:00 ET
+Table 'Lacey' 6-max Seat #5 is the button
+Seat 1: warioman ($19.50 in chips)
+Seat 2: Player#2971 ($12.96 in chips)
+Seat 3: Player#1255 ($62.10 in chips)
+Seat 4: Player#3787 ($35.74 in chips)
+Seat 5: Player#1258 ($18.38 in chips)
+Seat 6: Player#5264 ($62.47 in chips)
+Player#5264: posts small blind $0.10
+warioman: posts big blind $0.20
+*** HOLE CARDS ***
+Dealt to warioman [5h Jd]
+Player#2971: folds
+Player#1255: calls $0.20
+Player#3787: folds
+Player#1258: calls $0.20
+Player#5264: folds
+warioman: checks
+*** FLOP *** [3s 5d 4h]
+warioman: bets $0.20
+Player#1255: calls $0.20
+Player#1258: raises $0.20 to $1.2
+warioman: folds
+Player#1255: calls $1.00
+*** TURN *** [3s 5d 4h] [Jc]
+Player#1255: checks
+Player#1258: checks
+*** RIVER *** [3s 5d 4h] [Jc] [2c]
+Player#1255: bets $2.47
+Player#1258: calls $2.47
+*** SHOW DOWN *** 
+Player#1258 collected $7.83 from pot
+*** SUMMARY ***
+Total Pot $8.24 | Rake $0.41
+Board [3s 5d 4h Jc 2c]
+Seat 1: warioman (big blind) folded on the flop
+Seat 2: Player#2971 folded before the flop
+Seat 3: Player#1255 mucked
+Seat 4: Player#3787 folded before the flop
+Seat 5: Player#1258 shows [6s 6h] and won ($7.83) with 
+Seat 6: Player#5264 (small blind) folded before the flop
+
+PokerStars Hand #1b3fd0e6-b157-4528-8e8a-23c80cce7a14:  Hold'em No Limit ($0.1/$0.20 USD) - 2021/11/20 23:48:00 ET
+Table 'Denver' 6-max Seat #5 is the button
+Seat 1: Player#0190 ($59.93 in chips)
+Seat 2: Player#3338 ($19.14 in chips)
+Seat 3: Player#7155 ($62.26 in chips)
+Seat 4: warioman ($23.87 in chips)
+Seat 5: Player#0507 ($6.45 in chips)
+Seat 6: Player#5485 ($22.79 in chips)
+Player#5485: posts small blind $0.10
+Player#0190: posts big blind $0.20
+*** HOLE CARDS ***
+Dealt to warioman [Jh 9s]
+Player#3338: folds
+Player#7155: calls $0.20
+warioman: folds
+Player#0507: folds
+Player#5485: calls $0.10
+Player#0190: checks
+*** FLOP *** [Td 2c Tc]
+Player#5485: checks
+Player#0190: checks
+Player#7155: checks
+*** TURN *** [Td 2c Tc] [As]
+Player#5485: checks
+Player#0190: checks
+Player#7155: bets $0.60
+Player#5485: folds
+Player#0190: folds
+Player#7155: doesn't show hand
+Uncalled bet ($0.60) returned to Player#7155
+Player#7155 collected $0.57 from pot
+*** SUMMARY ***
+Total Pot $0.60 | Rake $0.03
+Board [Td 2c Tc As]
+Seat 1: Player#0190 (big blind) folded on the turn
+Seat 2: Player#3338 folded before the flop
+Seat 3: Player#7155 shows [] and won ($0.57) with 
+Seat 4: warioman folded before the flop
+Seat 5: Player#0507 (button) folded before the flop
+Seat 6: Player#5485 (small blind) folded on the turn
+
+PokerStars Hand #39d04f4a-a775-4e04-9172-bdb21a7c83dc:  Hold'em No Limit ($0.1/$0.20 USD) - 2021/11/20 23:47:00 ET
+Table 'Lacey' 6-max Seat #4 is the button
+Seat 1: warioman ($19.50 in chips)
+Seat 2: Player#6773 ($12.66 in chips)
+Seat 3: Player#6547 ($62.10 in chips)
+Seat 4: Player#4727 ($35.74 in chips)
+Seat 5: Player#4127 ($18.48 in chips)
+Seat 6: Player#5690 ($62.67 in chips)
+Player#4127: posts small blind $0.10
+Player#5690: posts big blind $0.20
+*** HOLE CARDS ***
+Dealt to warioman [7d Qs]
+warioman: folds
+Player#6773: raises $0.20 to $0.6
+Player#6547: folds
+Player#4727: folds
+Player#4127: folds
+Player#5690: folds
+warioman: doesn't show hand
+Player#6773: doesn't show hand
+Player#6547: doesn't show hand
+Player#4727: doesn't show hand
+Player#4127: doesn't show hand
+Player#5690: doesn't show hand
+Uncalled bet ($0.60) returned to Player#6773
+Player#6773 collected $0.30 from pot
+*** SUMMARY ***
+Total Pot $0.30 | Rake $0.00
+Seat 1: warioman folded before the flop
+Seat 2: Player#6773 shows [] and won ($0.30) with 
+Seat 3: Player#6547 folded before the flop
+Seat 4: Player#4727 (button) folded before the flop
+Seat 5: Player#4127 (small blind) folded before the flop
+Seat 6: Player#5690 (big blind) folded before the flop
+
+PokerStars Hand #48197717-d71f-465a-aec1-1ed825357bd6:  Hold'em No Limit ($0.1/$0.20 USD) - 2021/11/20 23:47:00 ET
+Table 'Lacey' 6-max Seat #3 is the button
+Seat 1: warioman ($20.00 in chips)
+Seat 2: Player#3225 ($12.66 in chips)
+Seat 3: Player#4868 ($62.10 in chips)
+Seat 4: Player#7622 ($35.04 in chips)
+Seat 5: Player#6489 ($18.68 in chips)
+Seat 6: Player#4440 ($62.67 in chips)
+Player#7622: posts small blind $0.10
+Player#6489: posts big blind $0.20
+*** HOLE CARDS ***
+Dealt to warioman [2h Ah]
+Player#4440: folds
+warioman: raises $0.20 to $0.5
+Player#3225: folds
+Player#4868: folds
+Player#7622: raises $0.50 to $2.1
+Player#6489: folds
+warioman: folds
+Player#7622: doesn't show hand
+Uncalled bet ($2.10) returned to Player#7622
+Player#7622 collected $0.70 from pot
+*** SUMMARY ***
+Total Pot $0.70 | Rake $0.00
+Seat 1: warioman folded before the flop
+Seat 2: Player#3225 folded before the flop
+Seat 3: Player#4868 (button) folded before the flop
+Seat 4: Player#7622 shows [] and won ($0.70) with 
+Seat 5: Player#6489 (big blind) folded before the flop
+Seat 6: Player#4440 folded before the flop
+
+PokerStars Hand #601e621d-d8f2-4757-9e48-8d1c8ef26a41:  Hold'em No Limit ($0.1/$0.20 USD) - 2021/11/20 23:47:00 ET
+Table 'Denver' 6-max Seat #4 is the button
+Seat 1: Player#6025 ($59.93 in chips)
+Seat 2: Player#2411 ($19.14 in chips)
+Seat 3: Player#7615 ($60.68 in chips)
+Seat 4: warioman ($23.87 in chips)
+Seat 5: Player#4389 ($6.55 in chips)
+Seat 6: Player#5766 ($24.44 in chips)
+Player#4389: posts small blind $0.10
+Player#5766: posts big blind $0.20
+*** HOLE CARDS ***
+Dealt to warioman [Qh 5d]
+Player#6025: folds
+Player#2411: folds
+Player#7615: raises $0.20 to $0.8
+warioman: folds
+Player#4389: folds
+Player#5766: calls $0.60
+*** FLOP *** [6c Tc Td]
+Player#5766: checks
+Player#7615: checks
+*** TURN *** [6c Tc Td] [Ts]
+Player#5766: checks
+Player#7615: bets $0.85
+Player#5766: calls $0.85
+*** RIVER *** [6c Tc Td] [Ts] [4s]
+Player#5766: checks
+Player#7615: bets $1.70
+Player#5766: folds
+Player#7615: doesn't show hand
+Uncalled bet ($1.70) returned to Player#7615
+Player#7615 collected $3.23 from pot
+*** SUMMARY ***
+Total Pot $3.40 | Rake $0.17
+Board [6c Tc Td Ts 4s]
+Seat 1: Player#6025 folded before the flop
+Seat 2: Player#2411 folded before the flop
+Seat 3: Player#7615 shows [] and won ($3.23) with 
+Seat 4: warioman (button) folded before the flop
+Seat 5: Player#4389 (small blind) folded before the flop
+Seat 6: Player#5766 (big blind) folded on the river
+
+PokerStars Hand #4b6d4e02-2abe-425e-98c4-780bfcf132f1:  Hold'em No Limit ($0.1/$0.20 USD) - 2021/11/20 23:46:00 ET
+Table 'Denver' 6-max Seat #3 is the button
+Seat 1: Player#5853 ($59.93 in chips)
+Seat 2: Player#9869 ($20.34 in chips)
+Seat 3: Player#4364 ($62.48 in chips)
+Seat 4: warioman ($23.97 in chips)
+Seat 5: Player#5382 ($6.75 in chips)
+Seat 6: Player#9861 ($21.39 in chips)
+warioman: posts small blind $0.10
+Player#5382: posts big blind $0.20
+*** HOLE CARDS ***
+Dealt to warioman [3c Qs]
+Player#9861: calls $0.20
+Player#5853: folds
+Player#9869: calls $0.20
+Player#4364: raises $0.20 to $0.6
+warioman: folds
+Player#5382: folds
+Player#9861: calls $0.40
+Player#9869: calls $0.40
+*** FLOP *** [Ad 4h 9c]
+Player#9861: checks
+Player#9869: checks
+Player#4364: bets $0.60
+Player#9861: calls $0.60
+Player#9869: calls $0.60
+*** TURN *** [Ad 4h 9c] [Ts]
+Player#9861: checks
+Player#9869: checks
+Player#4364: checks
+*** RIVER *** [Ad 4h 9c] [Ts] [5s]
+Player#9861: bets $0.60
+Player#9869: folds
+Player#4364: calls $0.60
+*** SHOW DOWN *** 
+Player#4364: doesn't show hand
+Player#9861 collected $4.85 from pot
+*** SUMMARY ***
+Total Pot $5.10 | Rake $0.26
+Board [Ad 4h 9c Ts 5s]
+Seat 1: Player#5853 folded before the flop
+Seat 2: Player#9869 folded on the river
+Seat 3: Player#4364 (button) mucked
+Seat 4: warioman (small blind) folded before the flop
+Seat 5: Player#5382 (big blind) folded before the flop
+Seat 6: Player#9861 shows [Th Kh] and won ($4.85) with 
+
+PokerStars Hand #45dd1914-5e64-46c6-bb03-c112bfb28b4c:  Hold'em No Limit ($0.1/$0.20 USD) - 2021/11/20 23:45:00 ET
+Table 'Lacey' 6-max Seat #2 is the button
+Seat 1: warioman ($19.60 in chips)
+Seat 2: Player#0869 ($14.16 in chips)
+Seat 3: Player#5854 ($63.60 in chips)
+Seat 4: Player#2509 ($30.84 in chips)
+Seat 5: Player#2426 ($18.68 in chips)
+Seat 6: Player#9377 ($62.67 in chips)
+Player#5854: posts small blind $0.10
+Player#2509: posts big blind $0.20
+*** HOLE CARDS ***
+Dealt to warioman [6c 7c]
+Player#2426: folds
+Player#9377: folds
+warioman: raises $0.20 to $0.5
+Player#0869: calls $0.50
+Player#5854: calls $0.40
+Player#2509: calls $0.30
+*** FLOP *** [4d 5h Ac]
+Player#5854: checks
+Player#2509: checks
+warioman: checks
+Player#0869: checks
+*** TURN *** [4d 5h Ac] [Ah]
+Player#5854: checks
+Player#2509: checks
+warioman: checks
+Player#0869: bets $1.00
+Player#5854: calls $1.00
+Player#2509: calls $1.00
+warioman: calls $1.00
+*** RIVER *** [4d 5h Ac] [Ah] [Ah]
+Player#5854: checks
+Player#2509: checks
+warioman: checks
+Player#0869: checks
+*** SHOW DOWN *** 
+Player#2509 collected $5.70 from pot
+*** SUMMARY ***
+Total Pot $6.00 | Rake $0.30
+Board [4d 5h Ac Ah Ah]
+Seat 1: warioman
+Seat 2: Player#0869 (button) mucked
+Seat 3: Player#5854 (small blind) mucked
+Seat 4: Player#2509 shows [Ad 2s] and won ($5.70) with 
+Seat 5: Player#2426 folded before the flop
+Seat 6: Player#9377 folded before the flop
+
+PokerStars Hand #73ee9adb-c3b2-4c96-85b6-c5e4a8c6538d:  Hold'em No Limit ($0.1/$0.20 USD) - 2021/11/20 23:45:00 ET
+Table 'Denver' 6-max Seat #2 is the button
+Seat 1: Player#2918 ($61.18 in chips)
+Seat 2: Player#8932 ($20.34 in chips)
+Seat 3: Player#1424 ($59.97 in chips)
+Seat 4: warioman ($24.17 in chips)
+Seat 5: Player#5408 ($8.00 in chips)
+Seat 6: Player#8249 ($21.39 in chips)
+Player#1424: posts small blind $0.10
+warioman: posts big blind $0.20
+*** HOLE CARDS ***
+Dealt to warioman [3h Ah]
+Player#5408: raises $0.20 to $0.6
+Player#8249: folds
+Player#2918: raises $0.60 to $1.25
+Player#8932: folds
+Player#1424: calls $1.15
+warioman: folds
+Player#5408: calls $0.65
+*** FLOP *** [8s Jh Qc]
+Player#1424: checks
+Player#5408: checks
+Player#2918: checks
+*** TURN *** [8s Jh Qc] [3s]
+Player#1424: bets $2.96
+Player#5408: folds
+Player#2918: folds
+Player#1424: doesn't show hand
+Uncalled bet ($2.96) returned to Player#1424
+Player#1424 collected $3.75 from pot
+*** SUMMARY ***
+Total Pot $3.95 | Rake $0.20
+Board [8s Jh Qc 3s]
+Seat 1: Player#2918 folded on the turn
+Seat 2: Player#8932 (button) folded before the flop
+Seat 3: Player#1424 shows [] and won ($3.75) with 
+Seat 4: warioman (big blind) folded before the flop
+Seat 5: Player#5408 folded on the turn
+Seat 6: Player#8249 folded before the flop
+
+PokerStars Hand #f8bfe7e9-bee3-458f-9847-8bc445518f07:  Hold'em No Limit ($0.1/$0.20 USD) - 2021/11/20 23:44:00 ET
+Table 'Lacey' 6-max Seat #1 is the button
+Seat 1: warioman ($19.60 in chips)
+Seat 2: Player#9262 ($12.80 in chips)
+Seat 3: Player#7484 ($63.80 in chips)
+Seat 4: Player#7421 ($30.84 in chips)
+Seat 5: Player#9451 ($19.98 in chips)
+Seat 6: Player#3637 ($62.67 in chips)
+Player#9262: posts small blind $0.10
+Player#7484: posts big blind $0.20
+*** HOLE CARDS ***
+Dealt to warioman [3h Th]
+Player#7421: folds
+Player#9451: raises $0.20 to $0.6
+Player#3637: folds
+warioman: folds
+Player#9262: calls $0.50
+Player#7484: folds
+*** FLOP *** [Ks 6c 7c]
+Player#9262: checks
+Player#9451: bets $0.70
+Player#9262: calls $0.70
+*** TURN *** [Ks 6c 7c] [5c]
+Player#9262: checks
+Player#9451: checks
+*** RIVER *** [Ks 6c 7c] [5c] [Ac]
+Player#9262: bets $1.20
+Player#9451: folds
+Player#9262 Show
+*** SHOW DOWN *** 
+Uncalled bet ($1.20) returned to Player#9262
+Player#9262 collected $2.66 from pot
+*** SUMMARY ***
+Total Pot $2.80 | Rake $0.14
+Board [Ks 6c 7c 5c Ac]
+Seat 1: warioman (button) folded before the flop
+Seat 2: Player#9262 shows [8c 9c] and won ($2.66) with 
+Seat 3: Player#7484 (big blind) folded before the flop
+Seat 4: Player#7421 folded before the flop
+Seat 5: Player#9451 folded on the river
+Seat 6: Player#3637 folded before the flop
+
+PokerStars Hand #61c0a09d-4254-4d51-a2b7-c3d645de3c5e:  Hold'em No Limit ($0.1/$0.20 USD) - 2021/11/20 23:44:00 ET
+Table 'Denver' 6-max Seat #1 is the button
+Seat 1: Player#3506 ($61.18 in chips)
+Seat 2: Player#4173 ($21.14 in chips)
+Seat 3: Player#2558 ($57.23 in chips)
+Seat 4: warioman ($24.17 in chips)
+Seat 5: Player#8150 ($8.00 in chips)
+Seat 6: Player#0351 ($23.59 in chips)
+Player#4173: posts small blind $0.10
+Player#2558: posts big blind $0.20
+*** HOLE CARDS ***
+Dealt to warioman [As 6h]
+warioman: folds
+Player#8150: folds
+Player#0351: calls $0.20
+Player#3506: folds
+Player#4173: calls $0.10
+Player#2558: checks
+*** FLOP *** [4s Qd 8s]
+Player#4173: checks
+Player#2558: checks
+Player#0351: checks
+*** TURN *** [4s Qd 8s] [7s]
+Player#4173: bets $0.60
+Player#2558: calls $0.60
+Player#0351: calls $0.60
+*** RIVER *** [4s Qd 8s] [7s] [Js]
+Player#4173: checks
+Player#2558: checks
+Player#0351: bets $1.40
+Player#4173: folds
+Player#2558: calls $1.40
+*** SHOW DOWN *** 
+Player#2558 collected $4.94 from pot
+*** SUMMARY ***
+Total Pot $5.20 | Rake $0.26
+Board [4s Qd 8s 7s Js]
+Seat 1: Player#3506 (button) folded before the flop
+Seat 2: Player#4173 (small blind) folded on the river
+Seat 3: Player#2558 shows [4c 6s] and won ($4.94) with 
+Seat 4: warioman folded before the flop
+Seat 5: Player#8150 folded before the flop
+Seat 6: Player#0351 mucked
+
+PokerStars Hand #46fde47d-3a88-4653-8956-c4c1b7f94e9f:  Hold'em No Limit ($0.1/$0.20 USD) - 2021/11/20 23:44:00 ET
+Table 'Denver' 6-max Seat #6 is the button
+Seat 1: Player#7525 ($61.28 in chips)
+Seat 2: Player#2869 ($21.74 in chips)
+Seat 3: Player#1894 ($59.08 in chips)
+Seat 4: warioman ($24.17 in chips)
+Seat 5: Player#3587 ($6.88 in chips)
+Seat 6: Player#2918 ($22.47 in chips)
+Player#7525: posts small blind $0.10
+Player#2869: posts big blind $0.20
+*** HOLE CARDS ***
+Dealt to warioman [2s Tc]
+Player#1894: calls $0.20
+warioman: folds
+Player#3587: raises $0.20 to $0.6
+Player#2918: calls $0.60
+Player#7525: folds
+Player#2869: calls $0.40
+Player#1894: calls $0.40
+*** FLOP *** [7s Jc Qc]
+Player#2869: checks
+Player#1894: checks
+Player#3587: checks
+Player#2918: checks
+*** TURN *** [7s Jc Qc] [Th]
+Player#2869: checks
+Player#1894: checks
+Player#3587: bets $1.25
+Player#2918: calls $1.25
+Player#2869: folds
+Player#1894: calls $1.25
+*** RIVER *** [7s Jc Qc] [Th] [Kh]
+Player#1894: checks
+Player#3587: checks
+Player#2918: checks
+*** SHOW DOWN *** 
+Player#2918 collected $5.94 from pot
+*** SUMMARY ***
+Total Pot $6.25 | Rake $0.31
+Board [7s Jc Qc Th Kh]
+Seat 1: Player#7525 (small blind) folded before the flop
+Seat 2: Player#2869 (big blind) folded on the turn
+Seat 3: Player#1894 mucked
+Seat 4: warioman folded before the flop
+Seat 5: Player#3587 mucked
+Seat 6: Player#2918 shows [4h 9h] and won ($5.94) with 
+
+PokerStars Hand #7bb3fcdc-1e4f-45c5-b92f-9cb36766d81f:  Hold'em No Limit ($0.1/$0.20 USD) - 2021/11/20 23:44:00 ET
+Table 'Lacey' 6-max Seat #6 is the button
+Seat 1: warioman ($19.70 in chips)
+Seat 2: Player#7206 ($15.35 in chips)
+Seat 3: Player#6912 ($61.41 in chips)
+Seat 4: Player#1846 ($30.84 in chips)
+Seat 5: Player#0470 ($19.98 in chips)
+Seat 6: Player#4590 ($62.67 in chips)
+warioman: posts small blind $0.10
+Player#7206: posts big blind $0.20
+*** HOLE CARDS ***
+Dealt to warioman [9d 8c]
+Player#6912: calls $0.20
+Player#1846: folds
+Player#0470: folds
+Player#4590: folds
+warioman: folds
+Player#7206: raises $0.20 to $0.6
+Player#6912: calls $0.40
+*** FLOP *** [9c Qs 8s]
+Player#7206: bets $0.65
+Player#6912: calls $0.65
+*** TURN *** [9c Qs 8s] [Ac]
+Player#7206: bets $1.30
+Player#6912: calls $1.30
+*** RIVER *** [9c Qs 8s] [Ac] [Kc]
+Player#7206: checks
+Player#6912: bets $5.20
+Player#7206: folds
+Player#6912: doesn't show hand
+Uncalled bet ($5.20) returned to Player#6912
+Player#6912 collected $4.94 from pot
+*** SUMMARY ***
+Total Pot $5.20 | Rake $0.26
+Board [9c Qs 8s Ac Kc]
+Seat 1: warioman (small blind) folded before the flop
+Seat 2: Player#7206 (big blind) folded on the river
+Seat 3: Player#6912 shows [] and won ($4.94) with 
+Seat 4: Player#1846 folded before the flop
+Seat 5: Player#0470 folded before the flop
+Seat 6: Player#4590 (button) folded before the flop
+
+PokerStars Hand #a8e39391-837f-4a87-aed7-c8aeddd0afbf:  Hold'em No Limit ($0.1/$0.20 USD) - 2021/11/20 23:43:00 ET
+Table 'Lacey' 6-max Seat #5 is the button
+Seat 1: warioman ($19.90 in chips)
+Seat 2: Player#1308 ($15.35 in chips)
+Seat 3: Player#7003 ($61.41 in chips)
+Seat 4: Player#0492 ($30.54 in chips)
+Seat 5: Player#3375 ($19.98 in chips)
+Seat 6: Player#8749 ($62.77 in chips)
+Player#8749: posts small blind $0.10
+warioman: posts big blind $0.20
+*** HOLE CARDS ***
+Dealt to warioman [2c 9c]
+Player#1308: folds
+Player#7003: folds
+Player#0492: raises $0.20 to $0.4
+Player#3375: folds
+Player#8749: folds
+warioman: folds
+Player#0492: doesn't show hand
+Uncalled bet ($0.40) returned to Player#0492
+Player#0492 collected $0.30 from pot
+*** SUMMARY ***
+Total Pot $0.30 | Rake $0.00
+Seat 1: warioman (big blind) folded before the flop
+Seat 2: Player#1308 folded before the flop
+Seat 3: Player#7003 folded before the flop
+Seat 4: Player#0492 shows [] and won ($0.30) with 
+Seat 5: Player#3375 (button) folded before the flop
+Seat 6: Player#8749 (small blind) folded before the flop
+
+PokerStars Hand #6f96640b-ea56-4684-92ca-7318798fc34b:  Hold'em No Limit ($0.1/$0.20 USD) - 2021/11/20 23:43:00 ET
+Table 'Lacey' 6-max Seat #4 is the button
+Seat 1: warioman ($19.90 in chips)
+Seat 2: Player#9393 ($15.35 in chips)
+Seat 3: Player#9192 ($61.11 in chips)
+Seat 4: Player#1204 ($30.54 in chips)
+Seat 5: Player#0182 ($20.08 in chips)
+Seat 6: Player#9238 ($62.97 in chips)
+Player#0182: posts small blind $0.10
+Player#9238: posts big blind $0.20
+*** HOLE CARDS ***
+Dealt to warioman [8d 4c]
+warioman: folds
+Player#9393: folds
+Player#9192: raises $0.20 to $0.6
+Player#1204: folds
+Player#0182: folds
+Player#9238: folds
+Player#9192: doesn't show hand
+Uncalled bet ($0.60) returned to Player#9192
+Player#9192 collected $0.30 from pot
+*** SUMMARY ***
+Total Pot $0.30 | Rake $0.00
+Seat 1: warioman folded before the flop
+Seat 2: Player#9393 folded before the flop
+Seat 3: Player#9192 shows [] and won ($0.30) with 
+Seat 4: Player#1204 (button) folded before the flop
+Seat 5: Player#0182 (small blind) folded before the flop
+Seat 6: Player#9238 (big blind) folded before the flop
+
+PokerStars Hand #39e4284a-8425-4d9e-b8a4-947211c5fe20:  Hold'em No Limit ($0.1/$0.20 USD) - 2021/11/20 23:43:00 ET
+Table 'Denver' 6-max Seat #5 is the button
+Seat 1: Player#9772 ($61.48 in chips)
+Seat 2: Player#5174 ($21.74 in chips)
+Seat 3: Player#5610 ($61.78 in chips)
+Seat 4: warioman ($24.17 in chips)
+Seat 5: Player#7639 ($6.88 in chips)
+Seat 6: Player#9131 ($19.85 in chips)
+Player#9131: posts small blind $0.10
+Player#9772: posts big blind $0.20
+*** HOLE CARDS ***
+Dealt to warioman [Th 3c]
+Player#5174: folds
+Player#5610: raises $0.20 to $0.6
+warioman: folds
+Player#7639: folds
+Player#9131: calls $0.50
+Player#9772: folds
+*** FLOP *** [4d As 5d]
+Player#9131: checks
+Player#5610: bets $0.70
+Player#9131: calls $0.70
+*** TURN *** [4d As 5d] [7d]
+Player#9131: checks
+Player#5610: bets $1.40
+Player#9131: calls $1.40
+*** RIVER *** [4d As 5d] [7d] [4d]
+Player#9131: bets $2.00
+Player#5610: folds
+Player#9131: doesn't show hand
+Uncalled bet ($2.00) returned to Player#9131
+Player#9131 collected $5.32 from pot
+*** SUMMARY ***
+Total Pot $5.60 | Rake $0.28
+Board [4d As 5d 7d 4d]
+Seat 1: Player#9772 (big blind) folded before the flop
+Seat 2: Player#5174 folded before the flop
+Seat 3: Player#5610 folded on the river
+Seat 4: warioman folded before the flop
+Seat 5: Player#7639 (button) folded before the flop
+Seat 6: Player#9131 shows [] and won ($5.32) with 
+
+PokerStars Hand #60cf3cab-8a60-4c90-a120-fae804bcecf0:  Hold'em No Limit ($0.1/$0.20 USD) - 2021/11/20 23:42:00 ET
+Table 'Lacey' 6-max Seat #3 is the button
+Seat 1: warioman ($19.90 in chips)
+Seat 2: Player#9111 ($15.35 in chips)
+Seat 3: Player#7392 ($61.11 in chips)
+Seat 4: Player#2355 ($30.74 in chips)
+Seat 5: Player#5533 ($19.90 in chips)
+Player#2355: posts small blind $0.10
+Player#5533: posts big blind $0.20
+*** HOLE CARDS ***
+Dealt to warioman [Tc 5h]
+warioman: folds
+Player#9111: folds
+Player#7392: folds
+Player#2355: calls $0.10
+Player#5533: checks
+*** FLOP *** [2h Kd 2c]
+Player#2355: checks
+Player#5533: bets $0.20
+Player#2355: folds
+Player#5533: doesn't show hand
+Uncalled bet ($0.20) returned to Player#5533
+Player#5533 collected $0.38 from pot
+*** SUMMARY ***
+Total Pot $0.40 | Rake $0.02
+Board [2h Kd 2c]
+Seat 1: warioman folded before the flop
+Seat 2: Player#9111 folded before the flop
+Seat 3: Player#7392 (button) folded before the flop
+Seat 4: Player#2355 (small blind) folded on the flop
+Seat 5: Player#5533 shows [] and won ($0.38) with 
+
+PokerStars Hand #2a94bb28-285f-4783-9280-c7035cf7ecc1:  Hold'em No Limit ($0.1/$0.20 USD) - 2021/11/20 23:42:00 ET
+Table 'Denver' 6-max Seat #4 is the button
+Seat 1: Player#4347 ($61.48 in chips)
+Seat 2: Player#1823 ($21.74 in chips)
+Seat 3: Player#7486 ($61.05 in chips)
+Seat 4: warioman ($24.17 in chips)
+Seat 5: Player#6444 ($7.08 in chips)
+Seat 6: Player#6486 ($20.45 in chips)
+Player#6444: posts small blind $0.10
+Player#6486: posts big blind $0.20
+*** HOLE CARDS ***
+Dealt to warioman [5c 4h]
+Player#4347: folds
+Player#1823: folds
+Player#7486: calls $0.20
+warioman: folds
+Player#6444: calls $0.10
+Player#6486: checks
+*** FLOP *** [8h 2s 5s]
+Player#6444: checks
+Player#6486: checks
+Player#7486: bets $0.40
+Player#6444: folds
+Player#6486: calls $0.40
+*** TURN *** [8h 2s 5s] [5h]
+Player#6486: checks
+Player#7486: bets $1.00
+Player#6486: folds
+Player#7486: doesn't show hand
+Uncalled bet ($1.00) returned to Player#7486
+Player#7486 collected $1.33 from pot
+*** SUMMARY ***
+Total Pot $1.40 | Rake $0.07
+Board [8h 2s 5s 5h]
+Seat 1: Player#4347 folded before the flop
+Seat 2: Player#1823 folded before the flop
+Seat 3: Player#7486 shows [] and won ($1.33) with 
+Seat 4: warioman (button) folded before the flop
+Seat 5: Player#6444 (small blind) folded on the flop
+Seat 6: Player#6486 (big blind) folded on the turn
+
+PokerStars Hand #23a4ce63-4fdb-4bbe-b432-face58371eff:  Hold'em No Limit ($0.1/$0.20 USD) - 2021/11/20 23:42:00 ET
+Table 'Lacey' 6-max Seat #2 is the button
+Seat 1: warioman ($19.90 in chips)
+Seat 2: Player#6044 ($15.35 in chips)
+Seat 3: Player#7680 ($60.91 in chips)
+Seat 4: Player#8142 ($30.94 in chips)
+Seat 5: Player#8672 ($19.90 in chips)
+Player#7680: posts small blind $0.10
+Player#8142: posts big blind $0.20
+*** HOLE CARDS ***
+Dealt to warioman [Ks 4h]
+Player#8672: folds
+warioman: folds
+Player#6044: folds
+Player#7680: raises $0.20 to $0.6
+Player#8142: folds
+Player#7680: doesn't show hand
+Uncalled bet ($0.60) returned to Player#7680
+Player#7680 collected $0.20 from pot
+*** SUMMARY ***
+Total Pot $0.20 | Rake $0.00
+Seat 1: warioman folded before the flop
+Seat 2: Player#6044 (button) folded before the flop
+Seat 3: Player#7680 shows [] and won ($0.20) with 
+Seat 4: Player#8142 (big blind) folded before the flop
+Seat 5: Player#8672 folded before the flop
+
+PokerStars Hand #4e15b039-bd0b-41f0-a26f-84ecce8f5583:  Hold'em No Limit ($0.1/$0.20 USD) - 2021/11/20 23:42:00 ET
+Table 'Lacey' 6-max Seat #1 is the button
+Seat 1: warioman ($19.90 in chips)
+Seat 2: Player#6061 ($15.95 in chips)
+Seat 3: Player#3789 ($60.37 in chips)
+Seat 4: Player#3263 ($30.94 in chips)
+Seat 5: Player#9813 ($19.90 in chips)
+Player#6061: posts small blind $0.10
+Player#3789: posts big blind $0.20
+*** HOLE CARDS ***
+Dealt to warioman [6h Ts]
+Player#3263: folds
+Player#9813: folds
+warioman: folds
+Player#6061: calls $0.10
+Player#3789: checks
+*** FLOP *** [7c Qh Ac]
+Player#6061: checks
+Player#3789: checks
+*** TURN *** [7c Qh Ac] [8h]
+Player#6061: checks
+Player#3789: checks
+*** RIVER *** [7c Qh Ac] [8h] [5h]
+Player#6061: checks
+Player#3789: bets $0.40
+Player#6061: calls $0.40
+*** SHOW DOWN *** 
+Player#6061: doesn't show hand
+Player#3789 collected $1.14 from pot
+*** SUMMARY ***
+Total Pot $1.20 | Rake $0.06
+Board [7c Qh Ac 8h 5h]
+Seat 1: warioman (button) folded before the flop
+Seat 2: Player#6061 (small blind) mucked
+Seat 3: Player#3789 shows [5h 8s] and won ($1.14) with 
+Seat 4: Player#3263 folded before the flop
+Seat 5: Player#9813 folded before the flop
+
+PokerStars Hand #c82479b5-f1cb-4de8-9693-0d8cc82cfa7b:  Hold'em No Limit ($0.1/$0.20 USD) - 2021/11/20 23:42:00 ET
+Table 'Lacey' 6-max Seat #6 is the button
+Seat 1: warioman ($20.00 in chips)
+Seat 2: Player#3528 ($15.85 in chips)
+Seat 3: Player#6848 ($60.37 in chips)
+Seat 4: Player#8490 ($30.94 in chips)
+Seat 5: Player#9130 ($19.90 in chips)
+warioman: posts small blind $0.10
+Player#3528: posts big blind $0.20
+*** HOLE CARDS ***
+Dealt to warioman [4d 9c]
+Player#6848: folds
+Player#8490: folds
+Player#9130: folds
+warioman: folds
+Player#3528 collected $0.20 from pot
+*** SUMMARY ***
+Total Pot $0.20 | Rake $0.00
+Seat 1: warioman (small blind) folded before the flop
+Seat 2: Player#3528 shows [] and won ($0.20) with 
+Seat 3: Player#6848 folded before the flop
+Seat 4: Player#8490 folded before the flop
+Seat 5: Player#9130 folded before the flop
+
+PokerStars Hand #de8c9ec7-1d01-405c-b8fa-2f809a4a4149:  Hold'em No Limit ($0.1/$0.20 USD) - 2021/11/20 23:41:00 ET
+Table 'Denver' 6-max Seat #3 is the button
+Seat 1: Player#2845 ($61.48 in chips)
+Seat 2: Player#2192 ($19.97 in chips)
+Seat 3: Player#1972 ($61.85 in chips)
+Seat 4: warioman ($24.27 in chips)
+Seat 5: Player#8138 ($7.28 in chips)
+Seat 6: Player#8780 ($21.25 in chips)
+warioman: posts small blind $0.10
+Player#8138: posts big blind $0.20
+*** HOLE CARDS ***
+Dealt to warioman [6s 2s]
+Player#8780: calls $0.20
+Player#2845: folds
+Player#2192: calls $0.20
+Player#1972: calls $0.20
+warioman: folds
+Player#8138: checks
+*** FLOP *** [Kc 7h 3c]
+Player#8138: checks
+Player#8780: checks
+Player#2192: bets $0.60
+Player#1972: calls $0.60
+Player#8138: folds
+Player#8780: calls $0.60
+*** TURN *** [Kc 7h 3c] [Kd]
+Player#8780: checks
+Player#2192: bets $2.70
+Player#1972: folds
+Player#8780: folds
+Player#2192: doesn't show hand
+Uncalled bet ($2.70) returned to Player#2192
+Player#2192 collected $2.57 from pot
+*** SUMMARY ***
+Total Pot $2.70 | Rake $0.14
+Board [Kc 7h 3c Kd]
+Seat 1: Player#2845 folded before the flop
+Seat 2: Player#2192 shows [] and won ($2.57) with 
+Seat 3: Player#1972 (button) folded on the turn
+Seat 4: warioman (small blind) folded before the flop
+Seat 5: Player#8138 (big blind) folded on the flop
+Seat 6: Player#8780 folded on the turn
+
+PokerStars Hand #94ca7ca5-eaf2-4b49-b601-24202edd1924:  Hold'em No Limit ($0.1/$0.20 USD) - 2021/11/20 23:41:00 ET
+Table 'Lacey' 6-max Seat #4 is the button
+Seat 1: warioman ($19.02 in chips)
+Seat 2: Player#0901 ($15.02 in chips)
+Seat 3: Player#6510 ($60.97 in chips)
+Seat 4: Player#1285 ($30.94 in chips)
+Seat 5: Player#0643 ($20.00 in chips)
+Player#0643: posts small blind $0.10
+warioman: posts big blind $0.20
+*** HOLE CARDS ***
+Dealt to warioman [2s 6s]
+Player#0901: raises $0.20 to $0.6
+Player#6510: calls $0.60
+Player#1285: folds
+Player#0643: folds
+warioman: folds
+*** FLOP *** [2h 3h 5d]
+Player#0901: checks
+Player#6510: checks
+*** TURN *** [2h 3h 5d] [3c]
+Player#0901: checks
+Player#6510: checks
+*** RIVER *** [2h 3h 5d] [3c] [7c]
+Player#0901: bets $0.75
+Player#6510: folds
+Player#0901: doesn't show hand
+Uncalled bet ($0.75) returned to Player#0901
+Player#0901 collected $1.43 from pot
+*** SUMMARY ***
+Total Pot $1.50 | Rake $0.08
+Board [2h 3h 5d 3c 7c]
+Seat 1: warioman (big blind) folded before the flop
+Seat 2: Player#0901 shows [] and won ($1.43) with 
+Seat 3: Player#6510 folded on the river
+Seat 4: Player#1285 (button) folded before the flop
+Seat 5: Player#0643 (small blind) folded before the flop
+
+PokerStars Hand #4ba9cf4b-c298-428b-8239-e1b21ce9a982:  Hold'em No Limit ($0.1/$0.20 USD) - 2021/11/20 23:40:00 ET
+Table 'Lacey' 6-max Seat #3 is the button
+Seat 1: warioman ($19.02 in chips)
+Seat 2: Player#4596 ($15.02 in chips)
+Seat 3: Player#1091 ($61.17 in chips)
+Seat 4: Player#9589 ($30.57 in chips)
+Seat 5: Player#8993 ($20.20 in chips)
+Player#9589: posts small blind $0.10
+Player#8993: posts big blind $0.20
+*** HOLE CARDS ***
+Dealt to warioman [6h 7c]
+warioman: folds
+Player#4596: folds
+Player#1091: calls $0.20
+Player#9589: calls $0.10
+Player#8993: checks
+*** FLOP *** [9s 4s 4d]
+Player#9589: checks
+Player#8993: checks
+Player#1091: checks
+*** TURN *** [9s 4s 4d] [Td]
+Player#9589: checks
+Player#8993: checks
+Player#1091: checks
+*** RIVER *** [9s 4s 4d] [Td] [9d]
+Player#9589: bets $0.60
+Player#8993: folds
+Player#1091: folds
+Player#9589: doesn't show hand
+Uncalled bet ($0.60) returned to Player#9589
+Player#9589 collected $0.57 from pot
+*** SUMMARY ***
+Total Pot $0.60 | Rake $0.03
+Board [9s 4s 4d Td 9d]
+Seat 1: warioman folded before the flop
+Seat 2: Player#4596 folded before the flop
+Seat 3: Player#1091 (button) folded on the river
+Seat 4: Player#9589 shows [] and won ($0.57) with 
+Seat 5: Player#8993 (big blind) folded on the river
+
+PokerStars Hand #85dc55c0-485b-498f-8369-3891628bc34f:  Hold'em No Limit ($0.1/$0.20 USD) - 2021/11/20 23:40:00 ET
+Table 'Denver' 6-max Seat #2 is the button
+Seat 1: Player#3456 ($61.48 in chips)
+Seat 2: Player#8607 ($20.17 in chips)
+Seat 3: Player#3608 ($63.65 in chips)
+Seat 4: warioman ($24.47 in chips)
+Seat 5: Player#7883 ($7.28 in chips)
+Seat 6: Player#9063 ($19.25 in chips)
+Player#3608: posts small blind $0.10
+warioman: posts big blind $0.20
+*** HOLE CARDS ***
+Dealt to warioman [8s 9h]
+Player#7883: folds
+Player#9063: calls $0.20
+Player#3456: folds
+Player#8607: calls $0.20
+Player#3608: calls $0.10
+warioman: checks
+*** FLOP *** [8h Jh 5c]
+Player#3608: checks
+warioman: checks
+Player#9063: checks
+Player#8607: checks
+*** TURN *** [8h Jh 5c] [2h]
+Player#3608: bets $1.00
+warioman: folds
+Player#9063: calls $1.00
+Player#8607: folds
+*** RIVER *** [8h Jh 5c] [2h] [5h]
+Player#3608: bets $0.60
+Player#9063: raises $0.60 to $4.6
+Player#3608: folds
+Player#9063: doesn't show hand
+Uncalled bet ($4.60) returned to Player#9063
+Player#9063 collected $3.23 from pot
+*** SUMMARY ***
+Total Pot $3.40 | Rake $0.17
+Board [8h Jh 5c 2h 5h]
+Seat 1: Player#3456 folded before the flop
+Seat 2: Player#8607 (button) folded on the turn
+Seat 3: Player#3608 (small blind) folded on the river
+Seat 4: warioman (big blind) folded on the turn
+Seat 5: Player#7883 folded before the flop
+Seat 6: Player#9063 shows [] and won ($3.23) with 
+
+PokerStars Hand #9a43c443-8bf9-445c-9d47-539685f3f041:  Hold'em No Limit ($0.1/$0.20 USD) - 2021/11/20 23:40:00 ET
+Table 'Denver' 6-max Seat #1 is the button
+Seat 1: Player#6785 ($62.18 in chips)
+Seat 2: Player#3399 ($20.27 in chips)
+Seat 3: Player#2283 ($62.85 in chips)
+Seat 4: warioman ($24.47 in chips)
+Seat 5: Player#7399 ($7.28 in chips)
+Seat 6: Player#9566 ($19.25 in chips)
+Player#3399: posts small blind $0.10
+Player#2283: posts big blind $0.20
+*** HOLE CARDS ***
+Dealt to warioman [9d 2h]
+warioman: folds
+Player#7399: folds
+Player#9566: folds
+Player#6785: raises $0.20 to $0.7
+Player#3399: folds
+Player#2283: raises $0.70 to $2.2
+Player#6785: folds
+Player#2283: doesn't show hand
+Uncalled bet ($2.20) returned to Player#2283
+Player#2283 collected $0.80 from pot
+*** SUMMARY ***
+Total Pot $0.80 | Rake $0.00
+Seat 1: Player#6785 (button) folded before the flop
+Seat 2: Player#3399 (small blind) folded before the flop
+Seat 3: Player#2283 shows [] and won ($0.80) with 
+Seat 4: warioman folded before the flop
+Seat 5: Player#7399 folded before the flop
+Seat 6: Player#9566 folded before the flop
+
+PokerStars Hand #6935c346-2183-4d4c-a878-349c4dac7f5e:  Hold'em No Limit ($0.1/$0.20 USD) - 2021/11/20 23:39:00 ET
+Table 'Denver' 6-max Seat #6 is the button
+Seat 1: Player#3319 ($62.28 in chips)
+Seat 2: Player#8050 ($20.47 in chips)
+Seat 3: Player#3219 ($66.53 in chips)
+Seat 4: warioman ($24.47 in chips)
+Seat 5: Player#8161 ($3.68 in chips)
+Seat 6: Player#9226 ($19.25 in chips)
+Player#3319: posts small blind $0.10
+Player#8050: posts big blind $0.20
+*** HOLE CARDS ***
+Dealt to warioman [3s Kh]
+Player#3219: raises $0.20 to $0.6
+warioman: folds
+Player#8161: raises $0.60 to $3.68
+Player#9226: folds
+Player#3319: folds
+Player#8050: folds
+Player#3219: calls $3.08
+Player#3219 Showing Pocket Cards QJ
+Player#8161 Showing Pocket Cards AK
+*** FLOP *** [2d 8s Th]
+*** TURN *** [2d 8s Th] [Ad]
+*** RIVER *** [2d 8s Th] [Ad] [4s]
+Player#8161 collected $7.28 from pot
+*** SUMMARY ***
+Total Pot $7.66 | Rake $0.38
+Board [2d 8s Th Ad 4s]
+Seat 1: Player#3319 (small blind) folded before the flop
+Seat 2: Player#8050 (big blind) folded before the flop
+Seat 3: Player#3219 mucked
+Seat 4: warioman folded before the flop
+Seat 5: Player#8161 shows [Ah Kd] and won ($7.28) with 
+Seat 6: Player#9226 (button) folded before the flop
+
+PokerStars Hand #f209fccb-7fd4-432f-b334-5e679b25bc24:  Hold'em No Limit ($0.1/$0.20 USD) - 2021/11/20 23:39:00 ET
+Table 'Lacey' 6-max Seat #2 is the button
+Seat 1: warioman ($19.02 in chips)
+Seat 2: Player#8152 ($15.02 in chips)
+Seat 3: Player#3882 ($61.27 in chips)
+Seat 4: Player#2201 ($29.35 in chips)
+Seat 5: Player#9791 ($21.45 in chips)
+Seat 6: Player#9948 ($62.97 in chips)
+Player#3882: posts small blind $0.10
+Player#2201: posts big blind $0.20
+*** HOLE CARDS ***
+Dealt to warioman [6h 8c]
+Player#9791: raises $0.20 to $0.6
+Player#9948: folds
+warioman: folds
+Player#8152: folds
+Player#3882: folds
+Player#2201: calls $0.40
+*** FLOP *** [5h Qc 8s]
+Player#2201: checks
+Player#9791: bets $0.65
+Player#2201: calls $0.65
+*** TURN *** [5h Qc 8s] [Ts]
+Player#2201: checks
+Player#9791: checks
+*** RIVER *** [5h Qc 8s] [Ts] [2s]
+Player#2201: bets $1.95
+Player#9791: folds
+Player#2201: doesn't show hand
+Uncalled bet ($1.95) returned to Player#2201
+Player#2201 collected $2.47 from pot
+*** SUMMARY ***
+Total Pot $2.60 | Rake $0.13
+Board [5h Qc 8s Ts 2s]
+Seat 1: warioman folded before the flop
+Seat 2: Player#8152 (button) folded before the flop
+Seat 3: Player#3882 (small blind) folded before the flop
+Seat 4: Player#2201 shows [] and won ($2.47) with 
+Seat 5: Player#9791 folded on the river
+Seat 6: Player#9948 folded before the flop
+
+PokerStars Hand #54c55469-f76e-4fb2-b7d0-2f0c1c7c60b6:  Hold'em No Limit ($0.1/$0.20 USD) - 2021/11/20 23:38:00 ET
+Table 'Denver' 6-max Seat #5 is the button
+Seat 1: Player#1893 ($62.48 in chips)
+Seat 2: Player#1121 ($20.47 in chips)
+Seat 3: Player#6964 ($66.93 in chips)
+Seat 4: warioman ($24.47 in chips)
+Seat 5: Player#1321 ($4.28 in chips)
+Seat 6: Player#1306 ($18.14 in chips)
+Player#1306: posts small blind $0.10
+Player#1893: posts big blind $0.20
+*** HOLE CARDS ***
+Dealt to warioman [Js 9h]
+Player#1121: folds
+Player#6964: calls $0.20
+warioman: folds
+Player#1321: calls $0.20
+Player#1306: calls $0.10
+Player#1893: checks
+*** FLOP *** [6h 2c Qs]
+Player#1306: checks
+Player#1893: checks
+Player#6964: checks
+Player#1321: checks
+*** TURN *** [6h 2c Qs] [8c]
+Player#1306: bets $0.20
+Player#1893: folds
+Player#6964: calls $0.20
+Player#1321: calls $0.20
+*** RIVER *** [6h 2c Qs] [8c] [Tc]
+Player#1306: bets $0.20
+Player#6964: folds
+Player#1321: calls $0.20
+*** SHOW DOWN *** 
+Player#1321: doesn't show hand
+Player#1306 collected $1.71 from pot
+*** SUMMARY ***
+Total Pot $1.80 | Rake $0.09
+Board [6h 2c Qs 8c Tc]
+Seat 1: Player#1893 (big blind) folded on the turn
+Seat 2: Player#1121 folded before the flop
+Seat 3: Player#6964 folded on the river
+Seat 4: warioman folded before the flop
+Seat 5: Player#1321 (button) mucked
+Seat 6: Player#1306 shows [8h 7s] and won ($1.71) with 
+
+PokerStars Hand #5401f19e-ae33-4d2d-a23c-7673fa4384c6:  Hold'em No Limit ($0.1/$0.20 USD) - 2021/11/20 23:38:00 ET
+Table 'Denver' 6-max Seat #4 is the button
+Seat 1: Player#4441 ($62.48 in chips)
+Seat 2: Player#9356 ($20.47 in chips)
+Seat 3: Player#4418 ($66.02 in chips)
+Seat 4: warioman ($24.47 in chips)
+Seat 5: Player#4878 ($4.38 in chips)
+Seat 6: Player#8710 ($19.04 in chips)
+Player#4878: posts small blind $0.10
+Player#8710: posts big blind $0.20
+*** HOLE CARDS ***
+Dealt to warioman [9c Kh]
+Player#4441: folds
+Player#9356: folds
+Player#4418: raises $0.20 to $0.9
+warioman: folds
+Player#4878: folds
+Player#8710: calls $0.70
+*** FLOP *** [6s As 2d]
+Player#8710: checks
+Player#4418: bets $0.95
+Player#8710: folds
+Player#4418: doesn't show hand
+Uncalled bet ($0.95) returned to Player#4418
+Player#4418 collected $1.80 from pot
+*** SUMMARY ***
+Total Pot $1.90 | Rake $0.09
+Board [6s As 2d]
+Seat 1: Player#4441 folded before the flop
+Seat 2: Player#9356 folded before the flop
+Seat 3: Player#4418 shows [] and won ($1.80) with 
+Seat 4: warioman (button) folded before the flop
+Seat 5: Player#4878 (small blind) folded before the flop
+Seat 6: Player#8710 (big blind) folded on the flop
+
+PokerStars Hand #5654e889-6949-491c-8480-52142fa0da3f:  Hold'em No Limit ($0.1/$0.20 USD) - 2021/11/20 23:38:00 ET
+Table 'Lacey' 6-max Seat #1 is the button
+Seat 1: warioman ($19.02 in chips)
+Seat 2: Player#1339 ($14.30 in chips)
+Seat 3: Player#3386 ($62.07 in chips)
+Seat 4: Player#1720 ($29.35 in chips)
+Seat 5: Player#1059 ($21.45 in chips)
+Seat 6: Player#0462 ($62.97 in chips)
+Player#1339: posts small blind $0.10
+Player#3386: posts big blind $0.20
+*** HOLE CARDS ***
+Dealt to warioman [Th 4d]
+Player#1720: folds
+Player#1059: folds
+Player#0462: folds
+warioman: folds
+Player#1339: calls $0.10
+Player#3386: checks
+*** FLOP *** [Td 2s 3s]
+Player#1339: bets $0.60
+Player#3386: calls $0.60
+*** TURN *** [Td 2s 3s] [9c]
+Player#1339: checks
+Player#3386: checks
+*** RIVER *** [Td 2s 3s] [9c] [Qc]
+Player#1339: bets $0.80
+Player#3386: folds
+Player#1339: doesn't show hand
+Uncalled bet ($0.80) returned to Player#1339
+Player#1339 collected $1.52 from pot
+*** SUMMARY ***
+Total Pot $1.60 | Rake $0.08
+Board [Td 2s 3s 9c Qc]
+Seat 1: warioman (button) folded before the flop
+Seat 2: Player#1339 shows [] and won ($1.52) with 
+Seat 3: Player#3386 (big blind) folded on the river
+Seat 4: Player#1720 folded before the flop
+Seat 5: Player#1059 folded before the flop
+Seat 6: Player#0462 folded before the flop
+
+PokerStars Hand #98d9f623-1eab-4ef8-b58e-a71f8eaffc2c:  Hold'em No Limit ($0.1/$0.20 USD) - 2021/11/20 23:38:00 ET
+Table 'Lacey' 6-max Seat #6 is the button
+Seat 1: warioman ($19.12 in chips)
+Seat 2: Player#5378 ($14.50 in chips)
+Seat 3: Player#5312 ($61.77 in chips)
+Seat 4: Player#7521 ($29.35 in chips)
+Seat 5: Player#9863 ($21.45 in chips)
+Seat 6: Player#8784 ($62.97 in chips)
+warioman: posts small blind $0.10
+Player#5378: posts big blind $0.20
+*** HOLE CARDS ***
+Dealt to warioman [2s 8d]
+Player#5312: raises $0.20 to $0.6
+Player#7521: folds
+Player#9863: folds
+Player#8784: folds
+warioman: folds
+Player#5378: folds
+Player#5312: doesn't show hand
+Uncalled bet ($0.60) returned to Player#5312
+Player#5312 collected $0.30 from pot
+*** SUMMARY ***
+Total Pot $0.30 | Rake $0.00
+Seat 1: warioman (small blind) folded before the flop
+Seat 2: Player#5378 (big blind) folded before the flop
+Seat 3: Player#5312 shows [] and won ($0.30) with 
+Seat 4: Player#7521 folded before the flop
+Seat 5: Player#9863 folded before the flop
+Seat 6: Player#8784 (button) folded before the flop
+
+PokerStars Hand #a7cab353-58ac-4e85-b810-115222dd61d9:  Hold'em No Limit ($0.1/$0.20 USD) - 2021/11/20 23:38:00 ET
+Table 'Denver' 6-max Seat #3 is the button
+Seat 1: Player#8358 ($62.48 in chips)
+Seat 2: Player#1523 ($20.00 in chips)
+Seat 3: Player#5062 ($66.22 in chips)
+Seat 4: warioman ($24.57 in chips)
+Seat 5: Player#0536 ($4.58 in chips)
+Seat 6: Player#0830 ($19.04 in chips)
+warioman: posts small blind $0.10
+Player#0536: posts big blind $0.20
+*** HOLE CARDS ***
+Dealt to warioman [5d Qd]
+Player#1523 Entry Bet 0.2
+Player#0830: folds
+Player#8358: folds
+Player#1523: checks
+Player#5062: calls $0.20
+warioman: folds
+Player#0536: checks
+*** FLOP *** [9s Qs 5s]
+Player#0536: checks
+Player#1523: bets $0.60
+Player#5062: folds
+Player#0536: folds
+Player#1523: doesn't show hand
+Uncalled bet ($0.60) returned to Player#1523
+Player#1523 collected $0.48 from pot
+*** SUMMARY ***
+Total Pot $0.50 | Rake $0.03
+Board [9s Qs 5s]
+Seat 1: Player#8358 folded before the flop
+Seat 2: Player#1523 shows [] and won ($0.48) with 
+Seat 3: Player#5062 (button) folded on the flop
+Seat 4: warioman (small blind) folded before the flop
+Seat 5: Player#0536 (big blind) folded on the flop
