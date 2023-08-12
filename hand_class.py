@@ -4,7 +4,7 @@ import sys
 
 class Hand:
 
-    def __init__(self):
+    def __init__(self): 
         self.id = ""
         self.stake = ""
         self.table_id = ""
